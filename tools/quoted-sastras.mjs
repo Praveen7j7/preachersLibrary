@@ -31,7 +31,7 @@ const add = (sk, src, ref, tr, url) => {
   found.set(key, e);
 };
 for (const f of readdirSync(CACHE)) {
-  const html = readFileSync(join(CACHE, f), 'utf8'), url = 'https://' + f.replace(/_/g, '/');
+  const html = readFileSync(join(CACHE, f), 'utf8'), url = 'https://' + f.replace(/\.html$/, '').replace(/_/g, '/');   // cache names come in two styles
   const p = html.indexOf('>Purport<'); if (p < 0) continue;
   const blocks = [...html.slice(p).matchAll(/<div id="bb\d+"[^>]*>([\s\S]*?)<\/div><\/div>/g)].map(m => m[1]);
   blocks.forEach((b, i) => {
