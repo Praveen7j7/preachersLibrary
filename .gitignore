@@ -1,0 +1,20 @@
+# Local only: environments, caches, build output
+.venv/
+.cache/
+node_modules/
+.wrangler/
+dist/
+.DS_Store
+
+# Copyrighted or private research material (kept on this Mac, never pushed):
+# full book texts, IYF's own Drive materials, Desire Tree text, VOICE encyclopedia, Chaitanya Charan articles,
+# and the source packs (full purports; rebuild with `node tools/source-pack.mjs`)
+research/books/
+research/iyf-materials/*
+!research/iyf-materials/manifest.json
+research/desire-tree/
+research/encyclopedia/
+research/chaitanyacharan/
+research/packs/
+research/prepass/
+research/edt-ebooks/*.pdf

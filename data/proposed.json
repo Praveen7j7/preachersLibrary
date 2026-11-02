@@ -1,0 +1,193 @@
+[
+  {
+    "id": "p-vl1-values-and-ethics",
+    "batch": "vl1",
+    "title": "Values and ethics for students and professionals",
+    "source": "deck #1 “Marching Towards Values (Ethiccraft)” (Ashray Krishna Das, 30th Mar 2019); deck #17 “Happiness And Ethical Behaviour” (maker not given); deck #19 “Human Values And Professional Ethics” (maker not given)",
+    "reason": "VL1 motive: 'introduce K.C … so that they can appreciate it'; answers the recorded objection 'off track my career, nowhere related to my career' with IYF's own remedy 'educating them how these are going to help in their career' (KRA tab, VL1 row). Light, relatable: ethics is a college subject (HVPE) the audience already sits. Adds: No VL1 topic treats values/ethics as such; vl1-13 Art of Living and vl1-10 BG and Art of Work touch it only in passing. Three IYF decks already exist for it.",
+    "status": "proposed",
+    "approved": false,
+    "position": "After vl1-13 Art of Living (the 'how to live' cluster)."
+  },
+  {
+    "id": "p-vl1-practical-meditation-for-students",
+    "batch": "vl1",
+    "title": "Practical meditation for students",
+    "source": "deck #3 “Practical Meditation For Students” (Ashray Krishna Das, 2019)",
+    "reason": "VL1 'one small experiment' mood; the OTP already has a 10-minute chanting slot every Sunday (OTP speakers table), so the talk explains what the audience is about to do. Addresses 'academic pressure, stress' (Announcements). Adds: vl1-12 Concentration & Memory and vl1-16 Mind Your Mind speak about the mind; none teaches a sitting practice. The deck (text extracted) is built on BG 6.34 and the 'monkey mind' sequence.",
+    "status": "proposed",
+    "approved": false,
+    "position": "After vl1-16 Mind Your Mind."
+  },
+  {
+    "id": "p-vl1-art-of-nourishing-relationships",
+    "batch": "vl1",
+    "title": "The art of nourishing relationships",
+    "source": "deck #101 “Happy Living And Relationships” (HG Rambhadra Prabhu); deck #109 “Happiness Living And Relationship_Maruti Suzki” (HG Rambhadra Prabhu); deck #111 “The Art Of Nourishing Relationships” (HG Rambhadra Prabhu)",
+    "reason": "'Relationship problems' is the first youth problem IYF names in the OTP announcement (Announcements, para 1); VL1 remedy 'providing friends or friendly activities' (KRA tab). Relatable, no pressure. Adds: No VL1 topic is about relationships; sps-04/dps-09 are Vaishnava relationships for practising devotees, a different audience and mood. HG Rambhadra Pr has three decks on it.",
+    "status": "proposed",
+    "approved": false,
+    "position": "After vl1-44 Power of Association."
+  },
+  {
+    "id": "p-vl2-introduction-to-bhagavad-gita",
+    "batch": "vl2",
+    "title": "Introduction to Bhagavad-gita: from DYS to EBG",
+    "source": "VL2 syllabus rows 'SS1.1/SS1.2 Introduction to Bhagavad-gita Part 1–2' (Syllabus_Vedic Level-2.xls, New Batch sheet); deck #38 “Bhagavad Gita Six Day Session Course” (HG Sundar Gopal Prabhu); deck #48 “Dys To Ebg” (HG Sundar Gopal Prabhu); deck #97 “Gita Course” (HG Rambhadra Prabhu)",
+    "reason": "IYF's own VL2 lesson plan opens the study sessions with 'SS1.1/1.2 Introduction to Bhagavad-gita' and the EBG workbook is compulsory in every class (VL2 syllabus; VL2 form rules). Reasoned mood: the Gita as a dialogue of questions. Adds: The site's VL2 list has no Gita orientation at all although EBG is the course textbook (VL2 class flow: 30 minutes of EBG discussion each week). Fills IYF's own syllabus gap.",
+    "status": "proposed",
+    "approved": false,
+    "position": "First VL2 topic, right after the DYS pages (dys-01…03)."
+  },
+  {
+    "id": "p-vl2-chanting-dos-and-donts",
+    "batch": "vl2",
+    "title": "Practical benefits and do's & don'ts of chanting Hare Krishna",
+    "source": "VL2 syllabus row 'Practical Benefits & Do's & Don'ts of Chanting Hare Krishna' (DYS block); Stage 2 §7.1 #4 “Chanting without offences: a first introduction (VL3 or SPS)”",
+    "reason": "VL2 KRA 'Start doing chanting' and exit standard 2–4 rounds (KRA tab; Courses tab; VL2 class flow). The 2015 syllabus has this exact session in the DYS block. Reasoned mood kept: benefits argued, rules explained. Adds: vl3-04 is the first chanting topic on the site, one level after IYF expects chanting to begin. Takes over §7.1 #4's 'first introduction to offences' in the form IYF already uses (do's and don'ts).",
+    "status": "proposed",
+    "approved": false,
+    "position": "Early VL2, after the Gita introduction and before vl2-01."
+  },
+  {
+    "id": "p-vl2-karma-what-it-explains",
+    "batch": "vl2",
+    "title": "Karma: what it explains and what it does not",
+    "source": "Stage 2 §7.1 #2 “Karma: what it explains and what it does not (VL2)”",
+    "reason": "VL2 motive 'removing all misconceptions about … spirituality', 'convinced about the relative truth presented by modern education' (KRA tab). Questioning mood: a law to be argued, with its limits. Adds: vl1-06 raises the question emotionally; vl2-01 Reincarnation assumes karma. No topic explains it. Deck #107 'Why Good People Have Bad Time' is the VL1 precursor (linked to vl1-06).",
+    "status": "proposed",
+    "approved": false,
+    "position": "After vl2-01 Reincarnation – Fact or Fiction."
+  },
+  {
+    "id": "p-vl2-vedic-cosmology-time-and-space",
+    "batch": "vl2",
+    "title": "Vedic cosmology: creation of the universe and the Vedic conception of time",
+    "source": "VL2 syllabus row 'Creation of the universe and vedic time conception' (SMC block); deck #113 “Topic-2 Vedic Cosmology - Vedic Concept of Time and Space” (maker not given)",
+    "reason": "A session of IYF's VL2 syllabus ('Creation of the universe and vedic time conception', SMC block) and an IYF deck ('Topic-2 Vedic Cosmology'). VL2 motive: relative truth of modern education; mood: reasoned comparison with science, same register as vl2-08. Adds: vl2-08 God and Science argues for a designer; nothing presents the Vedic picture of time and space itself.",
+    "status": "proposed",
+    "approved": false,
+    "position": "After vl2-08 God and Science."
+  },
+  {
+    "id": "p-vl3-three-modes-in-daily-life",
+    "batch": "vl3",
+    "title": "The three modes of nature in daily life",
+    "source": "Stage 2 §7.1 #1 “The three modes of nature in daily life (VL3)”",
+    "reason": "VL3 motive 'started practising … 4 reg principles' and 'appropriate dealing' with society (KRA tab). Practical mood: recognise the modes in food, sleep, company and choose. Adds: No topic on the gunas anywhere in the catalogue; supports vl3-01 and vl3-02.",
+    "status": "proposed",
+    "approved": false,
+    "position": "After vl3-02 Four Regulative Principles of Freedom."
+  },
+  {
+    "id": "p-vl3-attention-phones-and-sadhana",
+    "batch": "vl3",
+    "title": "Attention, phones and sadhana",
+    "source": "Stage 2 §7.1 #9 “Attention, phones and sadhana (VL3 / SPS)”; deck #86 “New Reason For Disturbance In Devotee Life” (HG Sundar Gopal Prabhu)",
+    "reason": "VL3 KPIs 'increment in the chanting rounds', 'sending sadhana card' (KRA tab) are what distraction destroys. Practical, encouraging: one technique to bring the mind back. Deck #86's title suggests the same subject (no text extracted; verify before use). Adds: vl1-39 and vl3-11 debate technology in general; nothing applies it to japa and hearing.",
+    "status": "proposed",
+    "approved": false,
+    "position": "After vl3-06 Importance of Sravanam."
+  },
+  {
+    "id": "p-vl3-spiritual-ambassadors-trusting-guides",
+    "batch": "vl3",
+    "title": "Spiritual ambassadors: learning to trust the devotees who guide you",
+    "source": "deck #114 “Topic-3 Spiritual Ambassadors - Their Contribution, Intellect, Realization and Intention” (maker not given)",
+    "reason": "The third VL3 motive is 'developing pure faith on the devotees helping them to practice K.C' (KRA tab). The deck's subtitle ('their contribution, intellect, realization and intention') is exactly that argument. Encouraging mood. Adds: vl3-08 teaches the one-to-one meeting; vl3-09 clears misconceptions about ISKCON; nothing explains why the guide deserves trust. No text extracted for the deck: confirm its content with the maker before building the page.",
+    "status": "proposed",
+    "approved": false,
+    "position": "After vl3-08 Revealing Heart in Confidence."
+  },
+  {
+    "id": "p-sps-importance-of-spreading-kc",
+    "batch": "sps",
+    "title": "The importance of spreading Krishna consciousness: book distribution and preaching as Srila Prabhupada's heart",
+    "source": "deck #41 “Book Distribution” (HG Sundar Gopal Prabhu); deck #61 “Preaching Is The Essence_Viplava_30May19” (HG Sundar Gopal Prabhu); deck #89 “Preaching Is The Essence - Viplava 2020” (HG Sundar Gopal Prabhu)",
+    "reason": "SPS motive 'learning the importance of spreading Krishna consciousness' (KRA tab, SPS rows) and the Book Distribution department's aim 'every devotee is having the desire to distribute books' (KRA tab). Steadying, relational: spreading KC as gratitude and association, not a quota. Adds: sps-20 lists 'preaching' among useful skills; no topic gives the reason. HG Sundar Gopal Pr's two 'Preaching Is The Essence' decks and 'Book Distribution' deck exist for it.",
+    "status": "proposed",
+    "approved": false,
+    "position": "After sps-20 Dedicating for the higher cause."
+  },
+  {
+    "id": "p-sps-coming-back-after-a-lapse",
+    "batch": "sps",
+    "title": "Coming back after a lapse",
+    "source": "Stage 2 §7.1 #13 “Coming back after a lapse (SPS)”; deck #87 “On_Improving_Sadhana” (HG Sundar Gopal Prabhu); deck #67 “Steadiness” (HG Sundar Gopal Prabhu)",
+    "reason": "SPS KPI 'maintaining or increasing the sadhana standards' (KRA tab); IYF even has a 'retain committee' and Festival KRA 'connecting inactive' (Vision tab; KRA tab). Steadying mood: return without shame. Adds: dps-01 Steadiness is one level up and assumes the devotee is steady; no topic addresses the return itself. Decks #67 and #87 supply IYF material.",
+    "status": "proposed",
+    "approved": false,
+    "position": "After sps-27 Faith and Doubt."
+  },
+  {
+    "id": "p-sps-when-the-mind-is-unwell",
+    "batch": "sps",
+    "title": "When the mind is unwell: devotion and professional help",
+    "source": "Stage 2 §7.1 #10 “When the mind is unwell: devotion and professional help (SPS / DPS)”",
+    "reason": "SPS motive 'seeking for strong association' and facilitator-meeting KPI (KRA tab) make SPS the level where a facilitator first carries this; IYF's workbook lists 'Physical care – health' and 'Medical' departments and a plan for 'health & fitness of devotees' (Sheet22), but says nothing on mental health. Relational mood; preacher guidance, not a lecture script (Stage 2 §2.5). Adds: vl1-19/vl1-33 address depression for newcomers; nothing guides practising devotees or tells a facilitator when to refer. Not stated in IYF documents: Stage 2 assumption applies.",
+    "status": "proposed",
+    "approved": false,
+    "sensitive": true,
+    "position": "After sps-30 How to give and receive constructive criticism (the facilitator-skills cluster)."
+  },
+  {
+    "id": "p-dps-adau-guru-padasraya",
+    "batch": "dps",
+    "title": "Adau guru-padasraya: why and how to take shelter of a spiritual master",
+    "source": "Stage 2 §7.1 #3 “Why accept a spiritual master? (SPS)”; deck #36 “Adau Guru Padashraya” (HG Sundar Gopal Prabhu); deck #50 “Guru Maharaj- Perfect Guru Perfect Disciple” (HG Sundar Gopal Prabhu)",
+    "reason": "DPS motive, verbatim: 'Inspiring to take shelter to guru, following the Initiation Vows' (KRA tab). Serious, committed mood. §7.1 proposed SPS as a bridge; IYF's wording names DPS, and SPS motives never mention guru, so it is placed at DPS. Adds: dps-03 and dps-41 assume a guru already; nothing establishes guru-tattva first. Two HG Sundar Gopal Pr decks exist ('Adau Guru Padashraya', 'Perfect Guru Perfect Disciple').",
+    "status": "proposed",
+    "approved": false,
+    "position": "Before dps-03 Guru Mukha Padma Vakya."
+  },
+  {
+    "id": "p-dps-3d-formula-priorities",
+    "batch": "dps",
+    "title": "Setting the priorities right: discipline, devotion, distribution (the 3D formula)",
+    "source": "deck #4 “Setting The Priorities Right - 3D Formula” (Ashray Krishna Das)",
+    "reason": "DPS motive 'increasing sadhana and seva standard' and 'taking some more responsibility' (KRA tab); the 3D formula is IYF's own management principle ('3D formula (devotion & distribution in discipline)', Standards tab). Serious mood: Prabhupada's letters on neglecting basics for preaching. The deck's examples are from brahmachari life; BSS already covers the same ground in bss-44…47. Adds: No topic on balancing sadhana against service; dps-01 Steadiness is adjacent but about the inner state.",
+    "status": "proposed",
+    "approved": false,
+    "position": "After dps-01 Steadiness in Krishna Consciousness."
+  },
+  {
+    "id": "p-dps-approaching-new-people",
+    "batch": "dps",
+    "title": "Approaching new people: the art of cultivating a newcomer",
+    "source": "KRA tab, DPS row: 'learning the art of approaching new people to bring them to K.C'; deck #41 “Book Distribution” (HG Sundar Gopal Prabhu)",
+    "reason": "DPS motive, verbatim: 'learning the art of approaching new people to bring them to K.C' (KRA tab); Stall department aim 'IYF youths are coordinating … doing registration' (KRA tab). Committed mood: a devotee now responsible for someone else. Adds: dps-26 lists preaching as a skill; the FTP decks (#62, #63, #104) are for facilitators, not DPS. Nothing teaches how to meet and cultivate a new person. Deck #41 gives examples; #90 (not placed) is the scholars case.",
+    "status": "proposed",
+    "approved": false,
+    "position": "After dps-26 Dedicating for the higher cause."
+  },
+  {
+    "id": "p-dps-career-ambition-integrity",
+    "batch": "dps",
+    "title": "Career, ambition and integrity",
+    "source": "Stage 2 §7.1 #11 “Career, ambition and integrity (SPS / DPS)”",
+    "reason": "DPS motive 'seeing himself in K.C on long terms (ashram wise, career wise)' (KRA tab); IYF plans 'IYF career counselling' (Sheet19) and a 'common platform for job and career opportunity' (Sheet22). Serious mood: work as sacrifice, honest limits. Adds: vl1-43 introduces the tension for newcomers; nothing serves working devotees deciding a career direction. §7.1 offered SPS or DPS; IYF's wording puts career at DPS.",
+    "status": "proposed",
+    "approved": false,
+    "position": "Before dps-56 Choosing Ashram (the two long-term decisions together)."
+  },
+  {
+    "id": "p-dps-servant-leadership",
+    "batch": "dps",
+    "title": "Servant leadership: taking responsibility in the mission",
+    "source": "Stage 2 §7.1 #14 “Serving as a leader (DPS)”; deck #96 “Developing Potential Leader” (HG Rambhadra Prabhu); deck #100 “Some More Qualities _Organisation Skill [Autosaved]” (HG Rambhadra Prabhu); deck #106 “Bhisma On Leadership_Agp” (HG Rambhadra Prabhu); deck #110 “Servant Leadership” (HG Rambhadra Prabhu); VOICE course “Leadership Sutras from Gita”",
+    "reason": "DPS motive 'taking some more responsibility in the movement' and KPI 'engage in some management or preaching services' (KRA tab); the ILS department exists to 'identify the leaders … and train them' (KRA tab). Committed mood: leadership as service, not status. Adds: Humility topics exist (dps-11, dps-21) but no leadership topic. Four HG Rambhadra Pr decks and a VOICE course converge on it.",
+    "status": "proposed",
+    "approved": false,
+    "position": "After dps-25 Dealings with Seniors, Equals & Juniors."
+  },
+  {
+    "id": "p-dps-sambandha-abhidheya-prayojana",
+    "batch": "dps",
+    "title": "Sambandha, abhidheya, prayojana: the map of Mahaprabhu's teaching",
+    "source": "Stage 2 §7.1 #6 “Sambandha, abhidheya, prayojana (DPS / advanced)”",
+    "reason": "Not stated in IYF documents (DPS motives are about sadhana, seva, guru, ashram, career); placed on the Stage 2 assumption that the sraddha-to-prema series (dps-12…18) needs its frame. Serious mood; textual precision. Adds: Frames dps-12…18 and dps-27…31. Kept to one page; the other advanced proposals (#7, #8) are held or linked, see below.",
+    "status": "proposed",
+    "approved": false,
+    "position": "Before dps-12 (opening of the sraddha-to-prema series)."
+  }
+]

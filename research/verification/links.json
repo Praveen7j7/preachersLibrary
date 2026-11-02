@@ -1,0 +1,458 @@
+{
+ "checkedAt": "2026-10-29T14:57:31.683Z",
+ "pages": 157,
+ "external": 590,
+ "internalBad": [],
+ "bad": [
+  {
+   "url": "https://doi.org/10.1002/ejsp.674",
+   "status": 403,
+   "final": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674",
+   "pageCount": 5,
+   "pages": [
+    "research/all-cited.html",
+    "topics/dps-15/preacher.html",
+    "topics/vl1-04/preacher.html",
+    "topics/vl1-26/preacher.html",
+    "topics/vl1-32/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1126/science.1192439",
+   "status": 403,
+   "final": "https://www.science.org/doi/10.1126/science.1192439",
+   "pageCount": 4,
+   "pages": [
+    "research/all-cited.html",
+    "topics/vl1-03/preacher.html",
+    "topics/vl1-16/preacher.html",
+    "topics/vl1-30/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1073/pnas.1010076108",
+   "status": 403,
+   "final": "https://pnas.org/doi/full/10.1073/pnas.1010076108",
+   "pageCount": 4,
+   "pages": [
+    "research/all-cited.html",
+    "research/gaudiya-research.html",
+    "topics/vl1-09/preacher.html",
+    "topics/vl1-23/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1016/j.chbr.2020.100005",
+   "status": 0,
+   "note": "UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+   "pageCount": 2,
+   "pages": [
+    "research/all-cited.html",
+    "topics/vl3-11/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1016/j.cpr.2010.11.003",
+   "status": 0,
+   "note": "UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+   "pageCount": 3,
+   "pages": [
+    "research/all-cited.html",
+    "research/gaudiya-research.html",
+    "topics/vl1-03/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1111/j.1467-9280.2005.01641.x",
+   "status": 403,
+   "final": "https://journals.sagepub.com/doi/10.1111/j.1467-9280.2005.01641.x",
+   "pageCount": 2,
+   "pages": [
+    "research/all-cited.html",
+    "topics/vl1-22/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1177/0146167202289002",
+   "status": 403,
+   "final": "https://journals.sagepub.com/doi/10.1177/0146167202289002",
+   "pageCount": 2,
+   "pages": [
+    "research/all-cited.html",
+    "topics/vl1-17/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1073/pnas.1011492107",
+   "status": 403,
+   "final": "https://pnas.org/doi/full/10.1073/pnas.1011492107",
+   "pageCount": 2,
+   "pages": [
+    "research/all-cited.html",
+    "topics/vl1-20/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1093/sleep/zsad253",
+   "status": 403,
+   "final": "https://academic.oup.com/sleep/article/doi/10.1093/sleep/zsad253/7280269",
+   "pageCount": 2,
+   "pages": [
+    "research/all-cited.html",
+    "topics/vl1-29/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1073/pnas.0903620106",
+   "status": 403,
+   "final": "https://pnas.org/doi/full/10.1073/pnas.0903620106",
+   "pageCount": 2,
+   "pages": [
+    "research/all-cited.html",
+    "topics/vl1-24/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1016/j.jpsychires.2016.02.023",
+   "status": 0,
+   "note": "UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+   "pageCount": 2,
+   "pages": [
+    "research/all-cited.html",
+    "topics/vl1-19/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1080/00332747.1974.11023785",
+   "status": 403,
+   "final": "https://www.tandfonline.com/doi/full/10.1080/00332747.1974.11023785",
+   "pageCount": 3,
+   "pages": [
+    "research/all-cited.html",
+    "research/gaudiya-research.html",
+    "topics/vl1-25/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1177/070674370905400502",
+   "status": 403,
+   "final": "https://journals.sagepub.com/doi/10.1177/070674370905400502",
+   "pageCount": 3,
+   "pages": [
+    "research/all-cited.html",
+    "research/gaudiya-research.html",
+    "topics/vl1-05/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1016/j.explore.2008.04.001",
+   "status": 0,
+   "note": "UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+   "pageCount": 3,
+   "pages": [
+    "research/all-cited.html",
+    "research/gaudiya-research.html",
+    "topics/vl2-01/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1016/j.jsp.2007.03.005",
+   "status": 0,
+   "note": "UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+   "pageCount": 2,
+   "pages": [
+    "research/all-cited.html",
+    "topics/vl1-11/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1037/1089-2680.2.3.271",
+   "status": 403,
+   "final": "https://journals.sagepub.com/doi/10.1037/1089-2680.2.3.271",
+   "pageCount": 2,
+   "pages": [
+    "research/all-cited.html",
+    "topics/vl1-30/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1016/j.beth.2019.07.003",
+   "status": 0,
+   "note": "UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+   "pageCount": 2,
+   "pages": [
+    "research/all-cited.html",
+    "topics/vl1-18/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1073/pnas.2208661120",
+   "status": 403,
+   "final": "https://pnas.org/doi/10.1073/pnas.2208661120",
+   "pageCount": 2,
+   "pages": [
+    "research/all-cited.html",
+    "topics/vl1-01/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1001/jamainternmed.2013.13018",
+   "status": 403,
+   "final": "http://archinte.jamanetwork.com/article.aspx?doi=10.1001/jamainternmed.2013.13018",
+   "pageCount": 3,
+   "pages": [
+    "research/all-cited.html",
+    "research/gaudiya-research.html",
+    "topics/vl1-19/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1177/0956797614524581",
+   "status": 403,
+   "final": "https://journals.sagepub.com/doi/10.1177/0956797614524581",
+   "pageCount": 1,
+   "pages": [
+    "research/all-cited.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1056/NEJMsa066082",
+   "status": 403,
+   "final": "https://www.nejm.org/doi/abs/10.1056/NEJMsa066082",
+   "pageCount": 2,
+   "pages": [
+    "research/all-cited.html",
+    "topics/vl1-44/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.2190/DUGG-P24E-52WK-6CDG",
+   "status": 403,
+   "final": "https://journals.sagepub.com/doi/10.2190/DUGG-P24E-52WK-6CDG",
+   "pageCount": 2,
+   "pages": [
+    "research/all-cited.html",
+    "topics/vl1-22/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1207/s15327965pli1501_01",
+   "status": 403,
+   "final": "https://www.tandfonline.com/doi/abs/10.1207/s15327965pli1501_01",
+   "pageCount": 2,
+   "pages": [
+    "research/all-cited.html",
+    "topics/vl1-06/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1126/science.167.3926.1751",
+   "status": 403,
+   "final": "https://www.science.org/doi/10.1126/science.167.3926.1751",
+   "pageCount": 2,
+   "pages": [
+    "research/all-cited.html",
+    "topics/vl1-12/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1016/j.cpr.2024.102414",
+   "status": 0,
+   "note": "UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+   "pageCount": 2,
+   "pages": [
+    "research/all-cited.html",
+    "topics/vl1-17/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1126/science.1207745",
+   "status": 403,
+   "final": "https://www.science.org/doi/10.1126/science.1207745",
+   "pageCount": 2,
+   "pages": [
+    "research/all-cited.html",
+    "topics/vl1-37/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1002/mar.21387",
+   "status": 403,
+   "final": "https://onlinelibrary.wiley.com/doi/10.1002/mar.21387",
+   "pageCount": 3,
+   "pages": [
+    "research/all-cited.html",
+    "research/gaudiya-research.html",
+    "topics/vl2-03/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1016/j.sleh.2023.07.016",
+   "status": 0,
+   "note": "UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+   "pageCount": 2,
+   "pages": [
+    "research/all-cited.html",
+    "topics/vl1-29/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.2105/AJPH.2011.300391",
+   "status": 403,
+   "final": "https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2011.300391",
+   "pageCount": 2,
+   "pages": [
+    "research/all-cited.html",
+    "topics/vl1-32/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1146/annurev-psych-122414-033417",
+   "status": 403,
+   "final": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-122414-033417",
+   "pageCount": 2,
+   "pages": [
+    "research/all-cited.html",
+    "topics/vl1-26/preacher.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1093/jhs/hiy013",
+   "status": 403,
+   "final": "https://academic.oup.com/jhs/article/11/1/38/5056173",
+   "pageCount": 1,
+   "pages": [
+    "research/gaudiya-research.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1111/j.1533-8525.2007.00107.x",
+   "status": 403,
+   "final": "https://www.tandfonline.com/doi/full/10.1111/j.1533-8525.2007.00107.x",
+   "pageCount": 1,
+   "pages": [
+    "research/gaudiya-research.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1177/003776800047002003",
+   "status": 403,
+   "final": "https://journals.sagepub.com/doi/10.1177/003776800047002003",
+   "pageCount": 1,
+   "pages": [
+    "research/gaudiya-research.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1080/13674679908406334",
+   "status": 403,
+   "final": "https://www.tandfonline.com/doi/abs/10.1080/13674679908406334",
+   "pageCount": 1,
+   "pages": [
+    "research/gaudiya-research.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1080/09637494.2017.1281598",
+   "status": 403,
+   "final": "https://www.tandfonline.com/doi/full/10.1080/09637494.2017.1281598",
+   "pageCount": 1,
+   "pages": [
+    "research/gaudiya-research.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1093/jhs/hiy008",
+   "status": 403,
+   "final": "https://academic.oup.com/jhs/article/11/3/234/5057172",
+   "pageCount": 1,
+   "pages": [
+    "research/gaudiya-research.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1093/jhs/hiy006",
+   "status": 403,
+   "final": "https://academic.oup.com/jhs/article/11/1/1/5055873",
+   "pageCount": 1,
+   "pages": [
+    "research/gaudiya-research.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1016/j.eujim.2018.09.010",
+   "status": 0,
+   "note": "UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+   "pageCount": 1,
+   "pages": [
+    "research/gaudiya-research.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1001/jamainternmed.2013.6473",
+   "status": 403,
+   "final": "http://archinte.jamanetwork.com/article.aspx?doi=10.1001/jamainternmed.2013.6473",
+   "pageCount": 1,
+   "pages": [
+    "research/gaudiya-research.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1080/10408398.2016.1138447",
+   "status": 403,
+   "final": "https://www.tandfonline.com/doi/full/10.1080/10408398.2016.1138447",
+   "pageCount": 1,
+   "pages": [
+    "research/gaudiya-research.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1016/j.paid.2020.110101",
+   "status": 0,
+   "note": "UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+   "pageCount": 1,
+   "pages": [
+    "research/gaudiya-research.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1016/s0140-6736(01",
+   "status": 404,
+   "pageCount": 1,
+   "pages": [
+    "research/gaudiya-research.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1111/j.1749-6632.2011.06080.x",
+   "status": 403,
+   "final": "https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/j.1749-6632.2011.06080.x",
+   "pageCount": 1,
+   "pages": [
+    "research/gaudiya-research.html"
+   ]
+  },
+  {
+   "url": "https://doi.org/10.1176/ajp.137.10.1193",
+   "status": 403,
+   "final": "https://psychiatryonline.org/doi/10.1176/ajp.137.10.1193",
+   "pageCount": 1,
+   "pages": [
+    "research/gaudiya-research.html"
+   ]
+  },
+  {
+   "url": "https://telemanas.mohfw.gov.in/",
+   "status": 0,
+   "note": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+   "pageCount": 8,
+   "pages": [
+    "topics/vl1-18/preacher.html",
+    "topics/vl1-19/preacher.html",
+    "topics/vl1-19/students.html",
+    "topics/vl1-33/preacher.html",
+    "topics/vl1-33/students.html"
+   ]
+  }
+ ]
+}

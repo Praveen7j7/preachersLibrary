@@ -1,0 +1,5664 @@
+{
+ "source": "https://iyf-lectures.vercel.app",
+ "fetched": "2026-10-30",
+ "catalogueLastUpdated": "2026-01-21T06:07:48.721293+00:00",
+ "batches": [
+  {
+   "code": "vl1",
+   "siteIds": [
+    "vedic-level-1"
+   ],
+   "name": "Vedic Level 1",
+   "short": "VL1",
+   "siteOrder": 1,
+   "topics": 48
+  },
+  {
+   "code": "dys",
+   "siteIds": [
+    "dys"
+   ],
+   "name": "Discover Yourself",
+   "short": "DYS",
+   "siteOrder": 2,
+   "topics": 6
+  },
+  {
+   "code": "vl2",
+   "siteIds": [
+    "vedic-level-2"
+   ],
+   "name": "Vedic Level 2",
+   "short": "VL2",
+   "siteOrder": 3,
+   "topics": 9
+  },
+  {
+   "code": "vl3",
+   "siteIds": [
+    "vedic-level-3"
+   ],
+   "name": "Vedic Level 3",
+   "short": "VL3",
+   "siteOrder": 4,
+   "topics": 12
+  },
+  {
+   "code": "sps",
+   "siteIds": [
+    "sps-2",
+    "sps-1"
+   ],
+   "name": "Srila Prabhupada Sabha",
+   "short": "SPS",
+   "siteOrder": 5,
+   "note": "SPS2 then SPS1, taught as one batch (IYF decision, 28 Oct 2026)",
+   "topics": 41
+  },
+  {
+   "code": "dps",
+   "siteIds": [
+    "dps"
+   ],
+   "name": "Dhruva Prahlada Sabha",
+   "short": "DPS",
+   "siteOrder": 7,
+   "topics": 57
+  },
+  {
+   "code": "bss",
+   "siteIds": [
+    "bss"
+   ],
+   "name": "Bhakti Siddhanta Sabha",
+   "short": "BSS",
+   "siteOrder": 8,
+   "topics": 49
+  },
+  {
+   "code": "trd",
+   "siteIds": [],
+   "name": "Temple Residents",
+   "short": "TRD",
+   "siteOrder": 99,
+   "note": "Library batch (head, 29 Oct 2026): approved list in research/trd-topics.md; not on the IYF site",
+   "topics": 54
+  }
+ ],
+ "notOnSite": [
+  {
+   "code": "bvs",
+   "name": "BVS",
+   "note": "No topics on the site; left out until IYF adds them (decision, 28 Oct 2026)."
+  }
+ ],
+ "numberingGaps": {
+  "vl3": [
+   12
+  ],
+  "sps2": [
+   11
+  ],
+  "sps1": [
+   5,
+   6,
+   7
+  ]
+ },
+ "topics": [
+  {
+   "id": "vl1-01",
+   "sourceId": "ebd52de0-82ef-42e6-a13f-eedf99478335",
+   "batch": "vl1",
+   "number": 1,
+   "title": "HAPPINESS",
+   "rawTitle": "HAPPINESS",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-01"
+   ]
+  },
+  {
+   "id": "vl1-02",
+   "sourceId": "98a5918d-fa1e-4f10-a14b-d0c698392b21",
+   "batch": "vl1",
+   "number": 2,
+   "title": "MERA BHARAT MAHAN",
+   "rawTitle": "MERA BHARAT MAHAN",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-02"
+   ]
+  },
+  {
+   "id": "vl1-03",
+   "sourceId": "733d4785-bb88-49ce-8754-54b91718d540",
+   "batch": "vl1",
+   "number": 3,
+   "title": "ART OF MIND CONTROL",
+   "rawTitle": "ART OF MIND CONTROL",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-03"
+   ]
+  },
+  {
+   "id": "vl1-04",
+   "sourceId": "8a201c8d-c13c-4aaf-90b7-49e12b6a7218",
+   "batch": "vl1",
+   "number": 4,
+   "title": "POWER OF HABITS",
+   "rawTitle": "POWER OF HABITS",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "folder"
+    ]
+   },
+   "updated": "2026-01-20T17:54:53.421826+00:00",
+   "siteRows": [
+    "vl1-04"
+   ]
+  },
+  {
+   "id": "vl1-05",
+   "sourceId": "0255a796-201d-404a-87a6-3d808fb11ac6",
+   "batch": "vl1",
+   "number": 5,
+   "title": "ABSOLUTE NECESSITY OF SPIRITUALITY",
+   "rawTitle": "ABSOLUTE NECESSITY OF SPIRITUALITY",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-05"
+   ]
+  },
+  {
+   "id": "vl1-06",
+   "sourceId": "a62116ca-64b6-4461-bf89-bb04ef76989d",
+   "batch": "vl1",
+   "number": 6,
+   "title": "WHY DO BAD THINGS HAPPEN TO GOOD PEOPLE",
+   "rawTitle": "WHY DO BAD THINGS HAPPEN TO GOOD PEOPLE",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-06"
+   ]
+  },
+  {
+   "id": "vl1-07",
+   "sourceId": "e57c22a4-fcdc-425b-8393-a668d6112f29",
+   "batch": "vl1",
+   "number": 7,
+   "title": "TRANSFORMATION OF HEART - FROM PASSION TO COMPASSION",
+   "rawTitle": "TRANSFORMATION OF HEART - FROM PASSION TO COMPASSION",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-07"
+   ]
+  },
+  {
+   "id": "vl1-08",
+   "sourceId": "9452d9c4-a021-48f7-8b78-d68ef463ebea",
+   "batch": "vl1",
+   "number": 8,
+   "title": "ARE VEDAS MYTHOLOGY",
+   "rawTitle": "ARE VEDAS MYTHOLOGY",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-08"
+   ]
+  },
+  {
+   "id": "vl1-09",
+   "sourceId": "2ff91b88-fe7f-46f2-a96c-7f0d243682cd",
+   "batch": "vl1",
+   "number": 9,
+   "title": "ART OF SELF MANAGEMENT",
+   "rawTitle": "ART OF SELF MANAGEMENT",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-09"
+   ],
+   "alsoIn": [
+    "vl3-01"
+   ]
+  },
+  {
+   "id": "vl1-10",
+   "sourceId": "c7eab5c7-9f3e-4415-8a8d-c6360f41da10",
+   "batch": "vl1",
+   "number": 10,
+   "title": "BG AND ART OF WORK",
+   "rawTitle": "BG AND ART OF WORK",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-10"
+   ]
+  },
+  {
+   "id": "vl1-11",
+   "sourceId": "69d5e254-68ad-4d6c-9290-714cc85c3df5",
+   "batch": "vl1",
+   "number": 11,
+   "title": "EIGHT PRACTICAL TIPS FOR POSITIVE THINKING",
+   "rawTitle": "EIGHT PRACTICAL TIPS FOR POSITIVE THINKING",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-11"
+   ]
+  },
+  {
+   "id": "vl1-12",
+   "sourceId": "fccb78f7-af8d-42cc-ac19-f76b5362c59d",
+   "batch": "vl1",
+   "number": 12,
+   "title": "CONCENTRATION AND MEMORY",
+   "rawTitle": "CONCENTRATION AND MEMORY",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-12"
+   ]
+  },
+  {
+   "id": "vl1-13",
+   "sourceId": "5b2224df-3c9f-4dd4-a0dc-47f24f1b6fce",
+   "batch": "vl1",
+   "number": 13,
+   "title": "ART OF LIVING",
+   "rawTitle": "ART OF LIVING",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-13"
+   ]
+  },
+  {
+   "id": "vl1-14",
+   "sourceId": "69ba4687-6276-45a6-aa66-f8581f51c95a",
+   "batch": "vl1",
+   "number": 14,
+   "title": "FAITHOLOGY - A SCIENCE OF FAITH",
+   "rawTitle": "FAITHOLOGY - A SCIENCE OF FAITH",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-14"
+   ]
+  },
+  {
+   "id": "vl1-15",
+   "sourceId": "d64aca90-978a-40e5-a371-e057795a364a",
+   "batch": "vl1",
+   "number": 15,
+   "title": "KRISHNA CONSCIOUSNESS - THERE IS NO LOSS AND ONLY GAIN",
+   "rawTitle": "KRISHNA CONSCIOUSNESS - THERE IS NO LOSS AND ONLY GAIN",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-15"
+   ]
+  },
+  {
+   "id": "vl1-16",
+   "sourceId": "9badce14-b66c-4b27-9164-2ceb112eeec2",
+   "batch": "vl1",
+   "number": 16,
+   "title": "MIND YOUR MIND",
+   "rawTitle": "MIND YOUR MIND",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-16"
+   ]
+  },
+  {
+   "id": "vl1-17",
+   "sourceId": "a1132f1f-a294-4de2-bddc-e7f9158efbce",
+   "batch": "vl1",
+   "number": 17,
+   "title": "OVERCOMING ANGER",
+   "rawTitle": "OVERCOMING ANGER",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-17"
+   ]
+  },
+  {
+   "id": "vl1-18",
+   "sourceId": "2f4300f0-71b3-4c88-ac6a-b7173b15cd40",
+   "batch": "vl1",
+   "number": 18,
+   "title": "OVERCOMING FEAR",
+   "rawTitle": "OVERCOMING FEAR",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-18"
+   ]
+  },
+  {
+   "id": "vl1-19",
+   "sourceId": "5445f0d0-a0a2-49a5-9a3d-497fdfde925e",
+   "batch": "vl1",
+   "number": 19,
+   "title": "OVERCOMING DEPRESSION",
+   "rawTitle": "OVERCOMING DEPRESSION",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-19"
+   ]
+  },
+  {
+   "id": "vl1-20",
+   "sourceId": "ebadaec7-213c-44f4-b059-fdc0b2e9d3fa",
+   "batch": "vl1",
+   "number": 20,
+   "title": "OVERCOMING GREED",
+   "rawTitle": "OVERCOMING GREED",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-20"
+   ]
+  },
+  {
+   "id": "vl1-21",
+   "sourceId": "a9bf721e-7565-47a6-8cc1-5f3d0844c8cb",
+   "batch": "vl1",
+   "number": 21,
+   "title": "PLEASURE HUNT",
+   "rawTitle": "PLEASURE HUNT",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-21"
+   ]
+  },
+  {
+   "id": "vl1-22",
+   "sourceId": "e04da271-c975-4d73-9207-c9acb7a38706",
+   "batch": "vl1",
+   "number": 22,
+   "title": "IQ, EQ & SQ - HOW TO MAKE BALANCE",
+   "rawTitle": "IQ, EQ & SQ - HOW TO MAKE BALANCE",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-22"
+   ]
+  },
+  {
+   "id": "vl1-23",
+   "sourceId": "b3a6358a-db57-4512-be94-080e8e84b845",
+   "batch": "vl1",
+   "number": 23,
+   "title": "PARTHA - THE FORMULA OF SUCCESS",
+   "rawTitle": "PARTHA - THE FORMULA OF SUCCESS",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-23"
+   ]
+  },
+  {
+   "id": "vl1-24",
+   "sourceId": "82e1e892-52b7-4d39-85c9-ad87dc995735",
+   "batch": "vl1",
+   "number": 24,
+   "title": "TIME MANAGEMENT",
+   "rawTitle": "TIME MANAGEMENT",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-24"
+   ]
+  },
+  {
+   "id": "vl1-25",
+   "sourceId": "c08fe332-abeb-4ecd-87ab-8513a1ab33f0",
+   "batch": "vl1",
+   "number": 25,
+   "title": "ART OF SMART WORK",
+   "rawTitle": "ART OF SMART WORK",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-25"
+   ]
+  },
+  {
+   "id": "vl1-26",
+   "sourceId": "5a52a45d-f005-4f98-90c3-7a5d3077a158",
+   "batch": "vl1",
+   "number": 26,
+   "title": "ATOMIC HABITS",
+   "rawTitle": "ATOMIC HABITS",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-26"
+   ]
+  },
+  {
+   "id": "vl1-27",
+   "sourceId": "e2bc3c36-c290-4e4b-97b7-76d69bac8dcc",
+   "batch": "vl1",
+   "number": 27,
+   "title": "GLORIES OF VEDIC CULTURE",
+   "rawTitle": "GLORIES OF VEDIC CULTURE",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-27"
+   ]
+  },
+  {
+   "id": "vl1-28",
+   "sourceId": "ed0971ce-5c01-4bf7-be6a-731508beeb99",
+   "batch": "vl1",
+   "number": 28,
+   "title": "HOW TO BE POSITIVE",
+   "rawTitle": "HOW TO BE POSITIVE",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-28"
+   ]
+  },
+  {
+   "id": "vl1-29",
+   "sourceId": "6d2ce036-4e8f-4ad2-9dbd-3e428e1128d0",
+   "batch": "vl1",
+   "number": 29,
+   "title": "LIFESTYLE MANAGEMENT",
+   "rawTitle": "LIFESTYLE MANAGEMENT",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-29"
+   ]
+  },
+  {
+   "id": "vl1-30",
+   "sourceId": "23ef5141-444d-4192-abc2-b3ebcfa9bf7a",
+   "batch": "vl1",
+   "number": 30,
+   "title": "MIND AND EMOTION CONTROL",
+   "rawTitle": "MIND AND EMOTION CONTROL",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-30"
+   ]
+  },
+  {
+   "id": "vl1-31",
+   "sourceId": "89695088-8e02-493a-87d9-6df2a01e480d",
+   "batch": "vl1",
+   "number": 31,
+   "title": "OUR LIFE ON TWO WHEELS",
+   "rawTitle": "OUR LIFE ON TWO WHEELS",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-31"
+   ]
+  },
+  {
+   "id": "vl1-32",
+   "sourceId": "380936a6-e82e-4887-be41-84825d40cbb8",
+   "batch": "vl1",
+   "number": 32,
+   "title": "OVERCOMING BAD HABITS",
+   "rawTitle": "OVERCOMING BAD HABITS",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-32"
+   ]
+  },
+  {
+   "id": "vl1-33",
+   "sourceId": "0d89626b-e0c2-46ab-9020-506079a6545d",
+   "batch": "vl1",
+   "number": 33,
+   "title": "STRESS AND DEPRESSION MANAGEMENT",
+   "rawTitle": "STRESS AND DEPRESSION MANAGEMENT",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-33"
+   ]
+  },
+  {
+   "id": "vl1-34",
+   "sourceId": "c1269ae7-421a-48cf-9644-10adfb3ed6a6",
+   "batch": "vl1",
+   "number": 34,
+   "title": "YOGA FOR MODERN AGE",
+   "rawTitle": "YOGA FOR MODERN AGE",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-34"
+   ]
+  },
+  {
+   "id": "vl1-35",
+   "sourceId": "8c8ba1e0-dbe1-4d1a-b900-a3645e6e2cca",
+   "batch": "vl1",
+   "number": 35,
+   "title": "VEDIC INDIA AND MODERN CIVILIZATION",
+   "rawTitle": "VEDIC INDIA AND MODERN CIVILIZATION",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-35"
+   ]
+  },
+  {
+   "id": "vl1-36",
+   "sourceId": "cf41bb58-7dd4-4ef5-a977-fadc18d55d39",
+   "batch": "vl1",
+   "number": 36,
+   "title": "MAKING THE RIGHT CHOICE",
+   "rawTitle": "MAKING THE RIGHT CHOICE",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-36"
+   ]
+  },
+  {
+   "id": "vl1-37",
+   "sourceId": "077e8739-a8bc-4d49-adfa-b85a5f74cfde",
+   "batch": "vl1",
+   "number": 37,
+   "title": "GOD AND GOOGLE",
+   "rawTitle": "GOD AND GOOGLE",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-37"
+   ]
+  },
+  {
+   "id": "vl1-38",
+   "sourceId": "d32cad6e-b684-49ca-82c2-617553f59ece",
+   "batch": "vl1",
+   "number": 38,
+   "title": "HIDDEN POWERS OF YOUTH - UTILIZING THE POWER OF YOUTH",
+   "rawTitle": "HIDDEN POWERS OF YOUTH - UTILIZING THE POWER OF YOUTH",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-38"
+   ]
+  },
+  {
+   "id": "vl1-39",
+   "sourceId": "7949cf27-ac29-4e58-a6f5-9adfe10e884d",
+   "batch": "vl1",
+   "number": 39,
+   "title": "SPIRITUALITY AND TECHNOLOGY",
+   "rawTitle": "SPIRITUALITY AND TECHNOLOGY",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-39"
+   ]
+  },
+  {
+   "id": "vl1-40",
+   "sourceId": "d90b45f1-b535-48eb-8b7d-94f54ee7445d",
+   "batch": "vl1",
+   "number": 40,
+   "title": "CURING THE CANCER OF MIND",
+   "rawTitle": "CURING THE CANCER OF MIND",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-40"
+   ]
+  },
+  {
+   "id": "vl1-41",
+   "sourceId": "a57638df-381a-447a-8431-56ed346730f5",
+   "batch": "vl1",
+   "number": 41,
+   "title": "MODERN KURUKSHETRA - WINNING THE GAME OF LIFE",
+   "rawTitle": "MODERN KURUKSHETRA - WINNING THE GAME OF LIFE",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-41"
+   ]
+  },
+  {
+   "id": "vl1-42",
+   "sourceId": "67fd9c82-77f4-4c99-9da7-29b96fc2ce46",
+   "batch": "vl1",
+   "number": 42,
+   "title": "WORLD CUP OF LIFE",
+   "rawTitle": "WORLD CUP OF LIFE",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-42"
+   ]
+  },
+  {
+   "id": "vl1-43",
+   "sourceId": "887b76ec-dcf2-4fcd-83b5-6dc8e084459e",
+   "batch": "vl1",
+   "number": 43,
+   "title": "AMBITIONS VS SPIRITUAL LIFE",
+   "rawTitle": "AMBITIONS VS SPIRITUAL LIFE",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-43"
+   ]
+  },
+  {
+   "id": "vl1-44",
+   "sourceId": "93a33414-43cf-4db3-84e4-d0d8f675bd80",
+   "batch": "vl1",
+   "number": 44,
+   "title": "POWER OF ASSOCIATION",
+   "rawTitle": "POWER OF ASSOCIATION",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-44"
+   ]
+  },
+  {
+   "id": "vl1-45",
+   "sourceId": "7539cb55-e3d1-433a-b110-2a257eadaacb",
+   "batch": "vl1",
+   "number": 45,
+   "title": "UNITY IS THE STRENGTH",
+   "rawTitle": "UNITY IS THE STRENGTH",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-45"
+   ]
+  },
+  {
+   "id": "vl1-46",
+   "sourceId": "50aa2091-783e-43eb-b763-4364287562c1",
+   "batch": "vl1",
+   "number": 46,
+   "title": "DHARMA KI ADALAT",
+   "rawTitle": "DHARMA KI ADALAT",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-46"
+   ]
+  },
+  {
+   "id": "vl1-47",
+   "sourceId": "52f242b7-42b8-4046-9b1d-2bb1aec9bcc0",
+   "batch": "vl1",
+   "number": 47,
+   "title": "INDIA VS BHARAT",
+   "rawTitle": "INDIA VS BHARAT",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T17:45:11.784843+00:00",
+   "siteRows": [
+    "vl1-47"
+   ]
+  },
+  {
+   "id": "vl1-48",
+   "sourceId": "326d59da-0880-4524-bbbf-2ad7001fbca9",
+   "batch": "vl1",
+   "number": 48,
+   "title": "Stay High Forever",
+   "rawTitle": "Stay High Forever",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": [
+     "audio"
+    ]
+   },
+   "updated": "2026-01-20T17:54:52.627958+00:00",
+   "siteRows": [
+    "vl1-48"
+   ]
+  },
+  {
+   "id": "dys-01-s1",
+   "sourceId": "2506527a-b897-4cff-a574-0a2992eed47f",
+   "batch": "dys",
+   "number": 1,
+   "title": "DYS 1: Can a Scientist Believe in God?",
+   "rawTitle": "DYS 1-4",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "folder"
+    ]
+   },
+   "updated": "2026-01-20T18:08:06.206116+00:00",
+   "siteRows": [
+    "dys-01"
+   ],
+   "session": 1,
+   "splitFrom": "dys-01",
+   "sourceIds": []
+  },
+  {
+   "id": "dys-01-s2",
+   "sourceId": "2506527a-b897-4cff-a574-0a2992eed47f",
+   "batch": "dys",
+   "number": 1,
+   "title": "DYS 2: Getting the Eyes to See God",
+   "rawTitle": "DYS 1-4",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "folder"
+    ]
+   },
+   "updated": "2026-01-20T18:08:06.206116+00:00",
+   "siteRows": [
+    "dys-01"
+   ],
+   "session": 2,
+   "splitFrom": "dys-01",
+   "sourceIds": []
+  },
+  {
+   "id": "dys-01-s3",
+   "sourceId": "2506527a-b897-4cff-a574-0a2992eed47f",
+   "batch": "dys",
+   "number": 1,
+   "title": "DYS 3: Are the Vedas Relevant Today?",
+   "rawTitle": "DYS 1-4",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "folder"
+    ]
+   },
+   "updated": "2026-01-20T18:08:06.206116+00:00",
+   "siteRows": [
+    "dys-01"
+   ],
+   "session": 3,
+   "splitFrom": "dys-01",
+   "sourceIds": []
+  },
+  {
+   "id": "dys-01-s4",
+   "sourceId": "2506527a-b897-4cff-a574-0a2992eed47f",
+   "batch": "dys",
+   "number": 1,
+   "title": "DYS 4: Science of the Soul",
+   "rawTitle": "DYS 1-4",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "folder"
+    ]
+   },
+   "updated": "2026-01-20T18:08:06.206116+00:00",
+   "siteRows": [
+    "dys-01"
+   ],
+   "session": 4,
+   "splitFrom": "dys-01",
+   "sourceIds": []
+  },
+  {
+   "id": "dys-02",
+   "sourceId": "4d6788a1-e838-4322-9934-e621d665f82f",
+   "batch": "dys",
+   "number": 2,
+   "title": "DYS 5: Substance and Shadow",
+   "rawTitle": "DYS 5",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "folder"
+    ]
+   },
+   "updated": "2026-01-20T18:08:29.092587+00:00",
+   "siteRows": [
+    "dys-02"
+   ]
+  },
+  {
+   "id": "dys-03",
+   "sourceId": "3572ca2b-839f-4d60-897d-1d60c2046240",
+   "batch": "dys",
+   "number": 3,
+   "title": "DYS 6: If God Is One, Then Why So Many Religions? (and the DYS test)",
+   "rawTitle": "DYS 6 & TEST",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "folder"
+    ]
+   },
+   "updated": "2026-01-20T18:08:43.930831+00:00",
+   "siteRows": [
+    "dys-03"
+   ]
+  },
+  {
+   "id": "vl2-01",
+   "sourceId": "283eef3a-c87a-4637-bafa-ebc88eaa7653",
+   "batch": "vl2",
+   "number": 1,
+   "title": "Reincarnation - Fact or Fiction",
+   "rawTitle": "Reincarnation - Fact or Fiction",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "ppt",
+     "folder"
+    ]
+   },
+   "updated": "2026-01-20T18:10:16.046998+00:00",
+   "siteRows": [
+    "vl2-01"
+   ]
+  },
+  {
+   "id": "vl2-02",
+   "sourceId": "c5db47fe-a88b-4fba-980a-296dca9043fc",
+   "batch": "vl2",
+   "number": 2,
+   "title": "Evolving towards perfection",
+   "rawTitle": "Evolving towards perfection",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "ppt",
+     "folder"
+    ]
+   },
+   "updated": "2026-01-20T18:11:36.937233+00:00",
+   "siteRows": [
+    "vl2-02"
+   ]
+  },
+  {
+   "id": "vl2-03",
+   "sourceId": "78e14081-77cc-4f2c-9c26-b114bdd98246",
+   "batch": "vl2",
+   "number": 3,
+   "title": "Quest for Happiness & Knowing the GOAL of life before defining the way of life",
+   "rawTitle": "Quest for Happiness & Knowing the GOAL of life before defining the way of life",
+   "subtitle": "What is our Goal? Are we achieving it? How can we achieve it?",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:11:52.776977+00:00",
+   "siteRows": [
+    "vl2-03"
+   ]
+  },
+  {
+   "id": "vl2-04",
+   "sourceId": "13d5bd5c-1437-418d-9410-8a1f02859304",
+   "batch": "vl2",
+   "number": 4,
+   "title": "Who should be object of my worship",
+   "rawTitle": "Who should be object of my worship",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "ppt",
+     "folder"
+    ]
+   },
+   "updated": "2026-01-20T18:13:54.313542+00:00",
+   "siteRows": [
+    "vl2-04"
+   ],
+   "alsoIn": [
+    "sps-01"
+   ]
+  },
+  {
+   "id": "vl2-05",
+   "sourceId": "5d972638-c0d5-48c3-88e8-f1c409300d6d",
+   "batch": "vl2",
+   "number": 5,
+   "title": "Our Glorious Vedic Culture",
+   "rawTitle": "Our Glorious Vedic Culture",
+   "subtitle": "Establishing VEDAS as The manual for achieving real peace and hapiness",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": [
+     "ppt"
+    ]
+   },
+   "updated": "2026-01-20T18:15:10.516284+00:00",
+   "siteRows": [
+    "vl2-05"
+   ]
+  },
+  {
+   "id": "vl2-06",
+   "sourceId": "da46f4d3-4b0b-48b9-9b7b-e4b1b38dba83",
+   "batch": "vl2",
+   "number": 6,
+   "title": "Vedas, Are they relevant today - ISKCON glorious ways to reestablishing the practical vedic culture.",
+   "rawTitle": "Vedas, Are they relevant today - ISKCON glorious ways to reestablishing the practical vedic culture.",
+   "subtitle": "But how come we do not hear much about them??? + How vedic culture was systematically attacked what are the pratical benefits of vedic culture How we can reestablish them ( How ISKCON is doing this successfully)",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "folder"
+    ]
+   },
+   "updated": "2026-01-20T18:15:22.82631+00:00",
+   "siteRows": [
+    "vl2-06"
+   ]
+  },
+  {
+   "id": "vl2-07",
+   "sourceId": "50d1ae9b-b91d-476d-a353-fa393167f224",
+   "batch": "vl2",
+   "number": 7,
+   "title": "Identifying divine Guide. - How ISKCON is not comparable to other so called spiritual organisation.",
+   "rawTitle": "Identifying divine Guide.  - How ISKCON is not comparable to other so called spiritual organisation.",
+   "subtitle": "establishing ISKCON as the hope for the current human civilization.",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "folder"
+    ]
+   },
+   "updated": "2026-01-20T18:15:58.892909+00:00",
+   "siteRows": [
+    "vl2-07"
+   ]
+  },
+  {
+   "id": "vl2-08",
+   "sourceId": "0bb2f521-1c21-4bdb-bd5f-beff5a997ba7",
+   "batch": "vl2",
+   "number": 8,
+   "title": "God and Science",
+   "rawTitle": "God and Science",
+   "subtitle": "How science is so unscientifically establishing our material identity But howcome we do not hear much about them??? + How vedic culture was systematically attacked",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "folder"
+    ]
+   },
+   "updated": "2026-01-20T18:17:48.84433+00:00",
+   "siteRows": [
+    "vl2-08"
+   ]
+  },
+  {
+   "id": "vl2-09",
+   "sourceId": "3cdecca7-993b-4e83-88f5-08feaba5f1fb",
+   "batch": "vl2",
+   "number": 9,
+   "title": "Why we do? what we do?",
+   "rawTitle": "Why we do? what we do?",
+   "subtitle": "Can spirituality be scientific and so called scientific are biased.",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "folder"
+    ]
+   },
+   "updated": "2026-01-20T18:18:00.866985+00:00",
+   "siteRows": [
+    "vl2-09"
+   ]
+  },
+  {
+   "id": "vl3-01",
+   "sourceId": "5754845b-5fe8-4def-8d14-120f13051d9b",
+   "batch": "vl3",
+   "number": 1,
+   "title": "Art of Self Management",
+   "rawTitle": "Art of Self Management",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": [
+     "ppt",
+     "audio"
+    ]
+   },
+   "updated": "2026-01-20T18:19:47.906674+00:00",
+   "siteRows": [
+    "vl3-01"
+   ],
+   "alsoIn": [
+    "vl1-09"
+   ]
+  },
+  {
+   "id": "vl3-02",
+   "sourceId": "272bed2f-47fc-44c8-9438-beb052cd7150",
+   "batch": "vl3",
+   "number": 2,
+   "title": "4 Regulative Principles of Freedom",
+   "rawTitle": "4 Regulative Principles of Freedom",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "ppt",
+     "folder"
+    ]
+   },
+   "updated": "2026-01-20T18:20:19.961613+00:00",
+   "siteRows": [
+    "vl3-02"
+   ]
+  },
+  {
+   "id": "vl3-03",
+   "sourceId": "f664b2c5-e7be-40f0-b459-f3aa4053838c",
+   "batch": "vl3",
+   "number": 3,
+   "title": "PEACE Formula",
+   "rawTitle": "PEACE Formula",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "folder"
+    ]
+   },
+   "updated": "2026-01-20T18:20:29.419601+00:00",
+   "siteRows": [
+    "vl3-03"
+   ]
+  },
+  {
+   "id": "vl3-04",
+   "sourceId": "4f1999ac-de81-4fbd-8b9b-f7fba2d38577",
+   "batch": "vl3",
+   "number": 4,
+   "title": "Importance & Art of Chanting Hare Krishna",
+   "rawTitle": "Importance & Art of Chanting Hare Krishna",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "ppt",
+     "folder"
+    ]
+   },
+   "updated": "2026-01-20T18:21:52.805234+00:00",
+   "siteRows": [
+    "vl3-04"
+   ]
+  },
+  {
+   "id": "vl3-05",
+   "sourceId": "6df58ab0-05e2-4b8a-b0e8-d790ed1fc032",
+   "batch": "vl3",
+   "number": 5,
+   "title": "Importance & Art of Reading Srila Prabhupada Books",
+   "rawTitle": "Importance & Art of Reading Srila Prabhupada Books",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "folder"
+    ]
+   },
+   "updated": "2026-01-20T18:22:03.455194+00:00",
+   "siteRows": [
+    "vl3-05"
+   ]
+  },
+  {
+   "id": "vl3-06",
+   "sourceId": "31bada71-228b-4401-afd2-8d7be0c97007",
+   "batch": "vl3",
+   "number": 6,
+   "title": "Importance of Sravanam & Art of Making effective notes",
+   "rawTitle": "Importance of Sravanam & Art of Making effective notes",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": [
+     "ppt",
+     "audio"
+    ]
+   },
+   "updated": "2026-01-20T18:22:26.624124+00:00",
+   "siteRows": [
+    "vl3-06"
+   ]
+  },
+  {
+   "id": "vl3-07",
+   "sourceId": "59a45bf2-9fc5-4bf2-b307-fe0682bc8e0f",
+   "batch": "vl3",
+   "number": 7,
+   "title": "Importance of Morning Program & Meaning of Mangala Aroti",
+   "rawTitle": "Importance of Morning Program & Meaning of Mangala Aroti",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "ppt",
+     "audio",
+     "folder"
+    ]
+   },
+   "updated": "2026-01-20T18:23:33.36108+00:00",
+   "siteRows": [
+    "vl3-07"
+   ]
+  },
+  {
+   "id": "vl3-08",
+   "sourceId": "27121179-d06f-40d0-bf7b-456dfa6b659d",
+   "batch": "vl3",
+   "number": 8,
+   "title": "Revealing Heart in Confidence - Art of one to one meeting with facilitator",
+   "rawTitle": "Revealing Heart in Confidence - Art of one to one meeting with facilitator",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "folder"
+    ]
+   },
+   "updated": "2026-01-20T18:23:59.377481+00:00",
+   "siteRows": [
+    "vl3-08"
+   ]
+  },
+  {
+   "id": "vl3-09",
+   "sourceId": "093174c4-bae0-43be-908b-a33952407cd6",
+   "batch": "vl3",
+   "number": 9,
+   "title": "Addressing various misconceptions about ISKCON",
+   "rawTitle": "Addressing various misconceptions about ISKCON",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": [
+     "audio",
+     "audio",
+     "audio",
+     "audio"
+    ]
+   },
+   "updated": "2026-01-21T01:27:04.691869+00:00",
+   "siteRows": [
+    "vl3-09"
+   ]
+  },
+  {
+   "id": "vl3-10",
+   "sourceId": "311f2007-0c95-4e52-98ab-4a798607e696",
+   "batch": "vl3",
+   "number": 10,
+   "title": "Morality Vs Transcendental morality",
+   "rawTitle": "Morality Vs Transcendental morality",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "video",
+     "video",
+     "video"
+    ]
+   },
+   "updated": "2026-01-21T05:04:38.045888+00:00",
+   "siteRows": [
+    "vl3-10"
+   ]
+  },
+  {
+   "id": "vl3-11",
+   "sourceId": "275cd4de-690b-4ca0-b1ea-3ea13b15c935",
+   "batch": "vl3",
+   "number": 11,
+   "title": "Debate - Manav seva or madhav seva\" & \"Technology - boon or curse",
+   "rawTitle": "\"Debate - Manav seva or madhav seva\"  & \"Technology - boon or curse\"",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:06:04.749753+00:00",
+   "siteRows": [
+    "vl3-11"
+   ]
+  },
+  {
+   "id": "vl3-13",
+   "sourceId": "5adc3617-44e8-44c6-909a-9971336657f0",
+   "batch": "vl3",
+   "number": 13,
+   "title": "How to deal with Parents, relatives & friends",
+   "rawTitle": "How to deal with Parents, relatives & friends",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:05:17.373713+00:00",
+   "siteRows": [
+    "vl3-13"
+   ]
+  },
+  {
+   "id": "sps-01",
+   "batch": "sps",
+   "number": 1,
+   "title": "Who should be the Object of My Worship?",
+   "rawTitle": "Who should be the Object of My Worship?",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "pdf",
+     "pdf"
+    ]
+   },
+   "updated": "2026-01-21T05:10:19.774581+00:00",
+   "siteRows": [
+    "sps2-01"
+   ],
+   "sourceIds": [
+    "04cdd721-125f-43cd-be1d-13c37399b072"
+   ],
+   "alsoIn": [
+    "vl2-04"
+   ]
+  },
+  {
+   "id": "sps-02",
+   "batch": "sps",
+   "number": 2,
+   "title": "God and gods",
+   "rawTitle": "God and gods",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "video"
+    ]
+   },
+   "updated": "2026-01-21T05:10:47.277379+00:00",
+   "siteRows": [
+    "sps2-02"
+   ],
+   "sourceIds": [
+    "d6ee75fd-f0ff-4ef7-942b-8b18138ea587"
+   ]
+  },
+  {
+   "id": "sps-03",
+   "batch": "sps",
+   "number": 3,
+   "title": "IS God Personal or Impersonal?",
+   "rawTitle": "IS God Personal or Impersonal?",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": [
+     "pdf"
+    ]
+   },
+   "updated": "2026-01-21T05:11:15.393882+00:00",
+   "siteRows": [
+    "sps2-03"
+   ],
+   "sourceIds": [
+    "24835324-b98e-47ee-9777-addca5e27b29"
+   ]
+  },
+  {
+   "id": "sps-04",
+   "batch": "sps",
+   "number": 4,
+   "title": "Buidling Vaishnava Relationships",
+   "rawTitle": "Buidling Vaishnava Relationships",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "audio"
+    ]
+   },
+   "updated": "2026-01-21T05:11:36.832545+00:00",
+   "siteRows": [
+    "sps2-04",
+    "sps1-01"
+   ],
+   "sourceIds": [
+    "e0378825-d662-44c8-a92f-0ec99620f4e4",
+    "463ed026-d7ed-47b5-ae52-3badd9a0fad7"
+   ],
+   "alsoIn": [
+    "dps-09"
+   ]
+  },
+  {
+   "id": "sps-05",
+   "batch": "sps",
+   "number": 5,
+   "title": "Developing Service Attitude - TASQ Formula Goal is to Serve (Clarity of purpose- why should I do sadhan Service- so much time & energy why?)- engaging god gifted potencies in His service- Service attitude- various types of services one can render.",
+   "rawTitle": "Developing Service Attitude - TASQ Formula  Goal is to Serve (Clarity of purpose- why should I do sadhan Service- so much time & energy why?)- engaging god gifted potencies in His service- Service attitude- various types of services one can render.",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "video",
+     "audio"
+    ]
+   },
+   "updated": "2026-01-21T05:12:31.188563+00:00",
+   "siteRows": [
+    "sps2-05"
+   ],
+   "sourceIds": [
+    "f8b072b6-9f85-4fa8-a2a3-86b8f8c8cf06"
+   ],
+   "alsoIn": [
+    "dps-10"
+   ]
+  },
+  {
+   "id": "sps-06",
+   "batch": "sps",
+   "number": 6,
+   "title": "Developing Humility",
+   "rawTitle": "Developing Humility",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "video",
+     "video"
+    ]
+   },
+   "updated": "2026-01-21T05:13:09.308499+00:00",
+   "siteRows": [
+    "sps2-06",
+    "sps1-10"
+   ],
+   "sourceIds": [
+    "30e92030-19bc-44fb-b76b-827befe3143a",
+    "2b0eeb94-4ac0-4716-aa2b-feb01f5f59cc"
+   ],
+   "alsoIn": [
+    "dps-11"
+   ]
+  },
+  {
+   "id": "sps-07",
+   "batch": "sps",
+   "number": 7,
+   "title": "Varnashrama – the four social and spiritual orders of life",
+   "rawTitle": "Varnashrama – the four social and spiritual orders of life",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "audio",
+     "doc"
+    ]
+   },
+   "updated": "2026-01-21T05:23:14.020475+00:00",
+   "siteRows": [
+    "sps2-07"
+   ],
+   "sourceIds": [
+    "7bb08417-5b86-41d0-b47e-d2a4575524bc"
+   ]
+  },
+  {
+   "id": "sps-08",
+   "batch": "sps",
+   "number": 8,
+   "title": "Six Principles of Surrender- Clarity of purpose- Occupational and constitutional duties of soul.",
+   "rawTitle": "Six Principles of Surrender- Clarity of purpose- Occupational and constitutional duties of soul.",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "video",
+     "video"
+    ]
+   },
+   "updated": "2026-01-21T05:20:52.381273+00:00",
+   "siteRows": [
+    "sps2-08"
+   ],
+   "sourceIds": [
+    "8ee149fa-026c-487b-92de-3bcc456d2a07"
+   ]
+  },
+  {
+   "id": "sps-09",
+   "batch": "sps",
+   "number": 9,
+   "title": "Nine fold process of Devotional Service",
+   "rawTitle": "Nine fold process of Devotional Service",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:25:10.962313+00:00",
+   "siteRows": [
+    "sps2-09",
+    "sps1-21"
+   ],
+   "sourceIds": [
+    "bcb6421f-a48c-45f5-9ef5-d2ca51b3d89e",
+    "78b5b263-de82-4aa1-bf8e-e684dafc602d"
+   ]
+  },
+  {
+   "id": "sps-10",
+   "batch": "sps",
+   "number": 10,
+   "title": "Books are the basis\"-in depth Scriptural knowledge -Art & importance of reading Srila Prabhupad Books",
+   "rawTitle": "\"Books are the basis\"-in depth Scriptural knowledge -Art & importance of reading Srila Prabhupad Books\"",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "audio",
+     "audio"
+    ]
+   },
+   "updated": "2026-01-21T05:22:27.621778+00:00",
+   "siteRows": [
+    "sps2-10"
+   ],
+   "sourceIds": [
+    "bc00a290-b017-42bc-8cc4-ad1d93289f21"
+   ]
+  },
+  {
+   "id": "sps-11",
+   "batch": "sps",
+   "number": 11,
+   "title": "Sravanam- Importance & Art of hearing",
+   "rawTitle": "Sravanam- Importance & Art of hearing",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "audio"
+    ]
+   },
+   "updated": "2026-01-21T05:22:56.361406+00:00",
+   "siteRows": [
+    "sps2-12"
+   ],
+   "sourceIds": [
+    "bb942788-a276-4af4-87b6-25dbb0fb97ab"
+   ]
+  },
+  {
+   "id": "sps-12",
+   "batch": "sps",
+   "number": 12,
+   "title": "Science and philosophy behind Deity worship",
+   "rawTitle": "Science and philosophy behind Deity worship",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "pdf",
+     "video"
+    ]
+   },
+   "updated": "2026-01-21T05:24:13.781211+00:00",
+   "siteRows": [
+    "sps2-13"
+   ],
+   "sourceIds": [
+    "905e9bf0-c6c1-4d9d-9c15-616b03c4c118"
+   ]
+  },
+  {
+   "id": "sps-13",
+   "batch": "sps",
+   "number": 13,
+   "title": "Kirtanam- Japa- Importance & Art of Chanting",
+   "rawTitle": "Kirtanam- Japa- Importance & Art of Chanting",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "audio"
+    ]
+   },
+   "updated": "2026-01-21T05:26:14.645234+00:00",
+   "siteRows": [
+    "sps2-14",
+    "sps1-18"
+   ],
+   "sourceIds": [
+    "2de8656c-499c-4b7a-90ee-2d42616dba4c",
+    "c777f3dc-c0ed-4844-9a8b-a59956c964b1"
+   ]
+  },
+  {
+   "id": "sps-14",
+   "batch": "sps",
+   "number": 14,
+   "title": "Attitude of Gratitude",
+   "rawTitle": "Attitude of Gratitude",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "audio"
+    ]
+   },
+   "updated": "2026-01-21T05:26:37.14569+00:00",
+   "siteRows": [
+    "sps2-15",
+    "sps1-03"
+   ],
+   "sourceIds": [
+    "cf7285c3-8231-4280-8c2b-05af9588abc1",
+    "302b1bbd-3737-400a-992a-b0e4d1a002ba"
+   ]
+  },
+  {
+   "id": "sps-15",
+   "batch": "sps",
+   "number": 15,
+   "title": "Giving Up Sahajiyaism - Nectar Shopping Tendency",
+   "rawTitle": "Giving Up Sahajiyaism - Nectar Shopping Tendency",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "doc"
+    ]
+   },
+   "updated": "2026-01-21T05:27:03.649996+00:00",
+   "siteRows": [
+    "sps2-16",
+    "sps1-13"
+   ],
+   "sourceIds": [
+    "fab7eecf-0806-4dee-9b8b-fd61a20bbef6",
+    "4de9bcc4-1c66-4972-9905-6b586935ed91"
+   ]
+  },
+  {
+   "id": "sps-16",
+   "batch": "sps",
+   "number": 16,
+   "title": "Role of Sampraday- Comparative studies of 4 Vaishnava sampraday- Gaudiya Vaishnava- the followers of Sri caitanya Mahaprabhu",
+   "rawTitle": "Role of Sampraday- Comparative studies of 4 Vaishnava sampraday- Gaudiya Vaishnava- the followers of Sri caitanya Mahaprabhu",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": [
+     "doc"
+    ]
+   },
+   "updated": "2026-01-21T05:27:34.400803+00:00",
+   "siteRows": [
+    "sps2-17"
+   ],
+   "sourceIds": [
+    "5a633e2d-59dc-41a9-a05c-ab64e8870373"
+   ]
+  },
+  {
+   "id": "sps-17",
+   "batch": "sps",
+   "number": 17,
+   "title": "Dealings with Seniors, Equals & Juniors - Dealings with different levels of devotees",
+   "rawTitle": "Dealings with Seniors, Equals & Juniors - Dealings with different levels of devotees",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": [
+     "ppt",
+     "doc",
+     "doc",
+     "doc"
+    ]
+   },
+   "updated": "2026-01-21T05:28:27.472072+00:00",
+   "siteRows": [
+    "sps2-18",
+    "sps1-08"
+   ],
+   "sourceIds": [
+    "dafe5f48-909a-4c30-9ca9-89da99d633e4",
+    "0c648a20-a98a-4526-ac6d-9314725d13e9"
+   ],
+   "alsoIn": [
+    "dps-25"
+   ]
+  },
+  {
+   "id": "sps-18",
+   "batch": "sps",
+   "number": 18,
+   "title": "Connectivity- Always keep in touch feeling of dependency, Various channels to communicate- Daily SMS, E-mail, skype, Visiting Delhi in Festivals & Yatras & camps",
+   "rawTitle": "Connectivity- Always keep in touch feeling of dependency, Various channels to communicate- Daily SMS, E-mail, skype, Visiting Delhi in Festivals & Yatras & camps",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:28:40.813572+00:00",
+   "siteRows": [
+    "sps2-19"
+   ],
+   "sourceIds": [
+    "2aed2943-bb2f-4edd-a6c3-84f450ce06b2"
+   ]
+  },
+  {
+   "id": "sps-19",
+   "batch": "sps",
+   "number": 19,
+   "title": "Controversial Issues - Ritvikvad & Poison Issue",
+   "rawTitle": "Controversial Issues - Ritvikvad & Poison Issue",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "doc"
+    ]
+   },
+   "updated": "2026-01-21T05:29:03.715863+00:00",
+   "siteRows": [
+    "sps2-20",
+    "sps1-04"
+   ],
+   "sourceIds": [
+    "3cee3ac0-7803-4465-9cdc-a3ab8784cf92",
+    "2f884c63-5dbb-47aa-83d0-5b5fa3c42130"
+   ],
+   "otherTitles": [
+    "Controversial Issues - Ritvikvad & Poison Issue\" Controversial Issues - Jiva Fall Controversial Issues - Gopi Bhav Club Controversial Issues - Apasampradaya"
+   ]
+  },
+  {
+   "id": "sps-20",
+   "batch": "sps",
+   "number": 20,
+   "title": "Dedicating for the higher cause - Use your talents and faculties for spreading KC?- Useful Skills - Preaching, cooking, musical, management, etc.",
+   "rawTitle": "Dedicating for the higher cause - Use your talents and faculties for spreading KC?- Useful Skills - Preaching, cooking, musical, management, etc.",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": [
+     "audio"
+    ]
+   },
+   "updated": "2026-01-21T05:29:22.284315+00:00",
+   "siteRows": [
+    "sps2-21",
+    "sps1-09"
+   ],
+   "sourceIds": [
+    "07727c32-0c54-46ec-8b8e-5fae7f5b2bd4",
+    "e43e6e0c-6afc-422a-abf5-437ba8a33aa3"
+   ],
+   "alsoIn": [
+    "dps-26"
+   ]
+  },
+  {
+   "id": "sps-21",
+   "batch": "sps",
+   "number": 21,
+   "title": "Overcoming False Ego",
+   "rawTitle": "Overcoming False Ego",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "video",
+     "video"
+    ]
+   },
+   "updated": "2026-01-21T05:30:09.327192+00:00",
+   "siteRows": [
+    "sps2-22"
+   ],
+   "sourceIds": [
+    "d723776b-aa96-4b2b-8307-458571c63400"
+   ],
+   "alsoIn": [
+    "dps-19"
+   ]
+  },
+  {
+   "id": "sps-22",
+   "batch": "sps",
+   "number": 22,
+   "title": "Overcoming envy",
+   "rawTitle": "Overcoming envy",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "video"
+    ]
+   },
+   "updated": "2026-01-21T05:31:05.795649+00:00",
+   "siteRows": [
+    "sps2-23",
+    "sps1-22"
+   ],
+   "sourceIds": [
+    "bfa052f4-9fb6-4e28-acd6-15d0164a7e71",
+    "e36bc033-a20f-47d6-9a03-42af21b61383"
+   ],
+   "alsoIn": [
+    "dps-20"
+   ]
+  },
+  {
+   "id": "sps-23",
+   "batch": "sps",
+   "number": 23,
+   "title": "Proof for Lord Caitanya as Supreme Personality of Godhead",
+   "rawTitle": "Proof for Lord Caitanya as Supreme Personality of Godhead",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": [
+     "doc"
+    ]
+   },
+   "updated": "2026-01-21T05:31:23.640441+00:00",
+   "siteRows": [
+    "sps2-24"
+   ],
+   "sourceIds": [
+    "509e7111-7119-401e-be2b-f4abc84135db"
+   ]
+  },
+  {
+   "id": "sps-24",
+   "batch": "sps",
+   "number": 24,
+   "title": "Life & Teachings of Sri Caitanya Mahaprabhu",
+   "rawTitle": "Life & Teachings of Sri Caitanya Mahaprabhu",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:25:12.820562+00:00",
+   "siteRows": [
+    "sps2-25"
+   ],
+   "sourceIds": [
+    "1eb0c8c4-fcca-40b1-9095-d130568c9bf8"
+   ]
+  },
+  {
+   "id": "sps-25",
+   "batch": "sps",
+   "number": 25,
+   "title": "Life History of Srila Rupa Goswami",
+   "rawTitle": "Life History of Srila Rupa Goswami",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:31:43.255172+00:00",
+   "siteRows": [
+    "sps2-26"
+   ],
+   "sourceIds": [
+    "352bcaf3-a3a9-4b74-9f02-36c7ae7d72fd"
+   ],
+   "alsoIn": [
+    "dps-42"
+   ]
+  },
+  {
+   "id": "sps-26",
+   "batch": "sps",
+   "number": 26,
+   "title": "26 Qualities of Vaishnavas",
+   "rawTitle": "26 Qualities of Vaishnavas",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:25:42.764452+00:00",
+   "siteRows": [
+    "sps1-02"
+   ],
+   "sourceIds": [
+    "a5cfc73f-1372-47f3-a6d9-de59cff8cdd3"
+   ]
+  },
+  {
+   "id": "sps-27",
+   "batch": "sps",
+   "number": 27,
+   "title": "Faith and Doubt",
+   "rawTitle": "Faith and Doubt",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:25:43.784978+00:00",
+   "siteRows": [
+    "sps1-11"
+   ],
+   "sourceIds": [
+    "5901931e-8145-4899-8d9d-0157bab2a293"
+   ]
+  },
+  {
+   "id": "sps-28",
+   "batch": "sps",
+   "number": 28,
+   "title": "Fanaticism vs Broadmindedness in applying KC principles",
+   "rawTitle": "Fanaticism vs Broadmindedness in applying KC principles",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:25:43.896796+00:00",
+   "siteRows": [
+    "sps1-12"
+   ],
+   "sourceIds": [
+    "1a9c6201-40d3-40c1-94fe-d034816f737a"
+   ]
+  },
+  {
+   "id": "sps-29",
+   "batch": "sps",
+   "number": 29,
+   "title": "How to feel GODs love for us",
+   "rawTitle": "How to feel GODs love for us",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:25:44.152027+00:00",
+   "siteRows": [
+    "sps1-14"
+   ],
+   "sourceIds": [
+    "3a50cf5d-a0e5-4636-882f-d01724d013ce"
+   ]
+  },
+  {
+   "id": "sps-30",
+   "batch": "sps",
+   "number": 30,
+   "title": "How to give and receive constructive criticism",
+   "rawTitle": "How to give and receive constructive criticism",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:25:44.275199+00:00",
+   "siteRows": [
+    "sps1-15"
+   ],
+   "sourceIds": [
+    "b7c25960-a549-454e-aadd-e4a479b6587b"
+   ],
+   "alsoIn": [
+    "dps-22"
+   ]
+  },
+  {
+   "id": "sps-31",
+   "batch": "sps",
+   "number": 31,
+   "title": "Jana Sanga- Various categories of asat sanga- Being careful of Non Devotees- Indifferent to others opinions",
+   "rawTitle": "Jana Sanga- Various categories of asat sanga-   Being careful of Non Devotees- Indifferent to others opinions",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:25:44.385811+00:00",
+   "siteRows": [
+    "sps1-16"
+   ],
+   "sourceIds": [
+    "00eaa701-b353-4f24-b3fc-e77e28db9dd5"
+   ],
+   "alsoIn": [
+    "dps-35"
+   ]
+  },
+  {
+   "id": "sps-32",
+   "batch": "sps",
+   "number": 32,
+   "title": "Jnanis, Yogis and Bhaktas",
+   "rawTitle": "Jnanis, Yogis and Bhaktas",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:25:44.497161+00:00",
+   "siteRows": [
+    "sps1-17"
+   ],
+   "sourceIds": [
+    "6a460af0-808a-435f-9fdb-d1b0aedbf3b1"
+   ]
+  },
+  {
+   "id": "sps-33",
+   "batch": "sps",
+   "number": 33,
+   "title": "Krishnas sweetness Madhurya rasa",
+   "rawTitle": "Krishnas sweetness Madhurya rasa",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:25:44.727339+00:00",
+   "siteRows": [
+    "sps1-19"
+   ],
+   "sourceIds": [
+    "64051c26-2341-44ed-a2c6-69a2959e19d8"
+   ]
+  },
+  {
+   "id": "sps-34",
+   "batch": "sps",
+   "number": 34,
+   "title": "Learning to see good in others & How to give and receive appreciation",
+   "rawTitle": "Learning to see good in others & How to give and receive appreciation",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:25:44.835037+00:00",
+   "siteRows": [
+    "sps1-20"
+   ],
+   "sourceIds": [
+    "a07b916e-b92b-4643-80da-7abb382df3ee"
+   ],
+   "alsoIn": [
+    "dps-23"
+   ]
+  },
+  {
+   "id": "sps-35",
+   "batch": "sps",
+   "number": 35,
+   "title": "Life History of Srila Sanatan Goswami",
+   "rawTitle": "Life History of Srila Sanatan Goswami",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:25:45.176869+00:00",
+   "siteRows": [
+    "sps1-23"
+   ],
+   "sourceIds": [
+    "89458807-195b-4192-be70-1cb8b2a2a417"
+   ],
+   "alsoIn": [
+    "dps-44"
+   ]
+  },
+  {
+   "id": "sps-36",
+   "batch": "sps",
+   "number": 36,
+   "title": "Life History of Srila Jiva Goswami",
+   "rawTitle": "Life History of Srila Jiva Goswami",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:25:45.288323+00:00",
+   "siteRows": [
+    "sps1-24"
+   ],
+   "sourceIds": [
+    "ab99b1ce-8bee-4e63-af33-0c857ee0d551"
+   ],
+   "alsoIn": [
+    "dps-45"
+   ]
+  },
+  {
+   "id": "sps-37",
+   "batch": "sps",
+   "number": 37,
+   "title": "Life History of Srila Raghunath Das Goswami",
+   "rawTitle": "Life History of Srila Raghunath Das Goswami",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": [
+     "video"
+    ]
+   },
+   "updated": "2026-01-21T05:08:15.704301+00:00",
+   "siteRows": [
+    "sps1-25"
+   ],
+   "sourceIds": [
+    "c5b5f7d7-44ee-4ff5-a10d-e7782bafd64e"
+   ],
+   "alsoIn": [
+    "dps-46"
+   ]
+  },
+  {
+   "id": "sps-38",
+   "batch": "sps",
+   "number": 38,
+   "title": "Life History of Srila Gopal Bhatta Goswami",
+   "rawTitle": "Life History of Srila Gopal Bhatta Goswami",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:25:45.51998+00:00",
+   "siteRows": [
+    "sps1-26"
+   ],
+   "sourceIds": [
+    "7d635d15-f739-46c9-853b-381db54ab553"
+   ],
+   "alsoIn": [
+    "dps-47"
+   ]
+  },
+  {
+   "id": "sps-39",
+   "batch": "sps",
+   "number": 39,
+   "title": "Life History of Srila Raghunath Bhatta goswami",
+   "rawTitle": "Life History of Srila Raghunath Bhatta goswami",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:25:45.626653+00:00",
+   "siteRows": [
+    "sps1-27"
+   ],
+   "sourceIds": [
+    "b183104f-4340-4c67-80f8-50a5edbffbc9"
+   ],
+   "alsoIn": [
+    "dps-48"
+   ]
+  },
+  {
+   "id": "sps-40",
+   "batch": "sps",
+   "number": 40,
+   "title": "Serving devotee is more pleasing to krishna than directly serving krishna",
+   "rawTitle": "Serving devotee is more pleasing to krishna than directly serving krishna",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:08:46.029862+00:00",
+   "siteRows": [
+    "sps1-28"
+   ],
+   "sourceIds": [
+    "b8e8fb17-aa0d-4da7-8c7c-ab143c0921c7"
+   ]
+  },
+  {
+   "id": "sps-41",
+   "batch": "sps",
+   "number": 41,
+   "title": "Learning dedication to Guru's mission & cultivating loving relationship with peers",
+   "rawTitle": "Learning dedication to Guru's mission & cultivating loving relationship with peers",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:25:45.843318+00:00",
+   "siteRows": [
+    "sps1-29"
+   ],
+   "sourceIds": [
+    "f2a216da-aed4-43d7-b2d7-6234c4fca8c5"
+   ]
+  },
+  {
+   "id": "dps-01",
+   "sourceId": "aaf5263b-38f6-4440-ba18-395b1fb51eed",
+   "batch": "dps",
+   "number": 1,
+   "title": "Steadiness in Krishna Consciousness",
+   "rawTitle": "Steadiness in Krishna Consciousness",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-01"
+   ]
+  },
+  {
+   "id": "dps-02",
+   "sourceId": "964a2ab2-1919-4155-8e1b-e5baaf1e97a6",
+   "batch": "dps",
+   "number": 2,
+   "title": "Revealing the heart in confidence",
+   "rawTitle": "Revealing the heart in confidence",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-02"
+   ]
+  },
+  {
+   "id": "dps-03",
+   "sourceId": "8bd5a3ae-cc65-48ab-98da-0c8b57c035c0",
+   "batch": "dps",
+   "number": 3,
+   "title": "Overcoming Whimsical behaviour & Separatist Mentality (Guru Mukha Padma Vakya) (with drama)",
+   "rawTitle": "Overcoming Whimsical behaviour & Separatist Mentality (Guru Mukha Padma Vakya) (with drama)",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-03"
+   ]
+  },
+  {
+   "id": "dps-04",
+   "sourceId": "9c5609cb-087b-4dd1-b39e-40b6e18fa06d",
+   "batch": "dps",
+   "number": 4,
+   "title": "Dealings with women",
+   "rawTitle": "Dealings with women",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-04"
+   ]
+  },
+  {
+   "id": "dps-05",
+   "sourceId": "f73564db-7a5c-4c1f-a89d-cf02f80707e8",
+   "batch": "dps",
+   "number": 5,
+   "title": "Developing higher taste - 5 out of 64 limbs of Devotional Service in Practice",
+   "rawTitle": "Developing higher taste - 5 out of 64 limbs of Devotional Service in Practice",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-05"
+   ]
+  },
+  {
+   "id": "dps-06",
+   "sourceId": "a5f323d9-d9d6-45f3-bf41-4bdc51b8ef37",
+   "batch": "dps",
+   "number": 6,
+   "title": "10 offenses to the Holy Name",
+   "rawTitle": "10 offenses to the Holy Name",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-06"
+   ]
+  },
+  {
+   "id": "dps-07",
+   "sourceId": "4cdae772-8c51-428a-a855-8a2b9e92ad2d",
+   "batch": "dps",
+   "number": 7,
+   "title": "Vaishnava Aparadha - Overcoming Fault Finding",
+   "rawTitle": "Vaishnava Aparadha - Overcoming Fault Finding",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-07"
+   ]
+  },
+  {
+   "id": "dps-08",
+   "sourceId": "5768b081-5aca-41d4-9b97-88f81c36aecc",
+   "batch": "dps",
+   "number": 8,
+   "title": "Vaishnava sadachar- What is VE? Why VE? How to practice VE? What are the various flexibilities available?",
+   "rawTitle": "Vaishnava sadachar- What is VE? Why VE? How to practice VE? What are the various flexibilities available?",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-08"
+   ]
+  },
+  {
+   "id": "dps-09",
+   "sourceId": "4dc06199-964c-462b-b33a-6cd3198ad6da",
+   "batch": "dps",
+   "number": 9,
+   "title": "Building Vaishnava Relationships",
+   "rawTitle": "Building Vaishnava Relationships",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-09"
+   ],
+   "alsoIn": [
+    "sps-04"
+   ]
+  },
+  {
+   "id": "dps-10",
+   "sourceId": "e47993b5-932d-4347-950b-a8eded3b01a7",
+   "batch": "dps",
+   "number": 10,
+   "title": "Developing Service Attitude - TASQ Formula Goal is to Serve (Clarity of purpose- why should I do sadhan Service- so much time & energy why?)- engaging god gifted potencies in His service- Service attitude- various types of services one can render.",
+   "rawTitle": "Developing Service Attitude - TASQ Formula Goal is to Serve (Clarity of purpose- why should I do sadhan Service- so much time & energy why?)- engaging god gifted potencies in His service- Service attitude- various types of services one can render.",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-10"
+   ],
+   "alsoIn": [
+    "sps-05"
+   ]
+  },
+  {
+   "id": "dps-11",
+   "sourceId": "a4d4139e-7094-4690-8d65-e4e0be65dc7f",
+   "batch": "dps",
+   "number": 11,
+   "title": "Developing Humility",
+   "rawTitle": "Developing Humility",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-11"
+   ],
+   "alsoIn": [
+    "sps-06"
+   ]
+  },
+  {
+   "id": "dps-12",
+   "sourceId": "0046440b-2623-4c11-99f8-5352f87cbdb5",
+   "batch": "dps",
+   "number": 12,
+   "title": "Various stages of development in Krishna Consciousness- From Sraddha to Prema-1 (Intro, Sraddha, Sadhu Sanga)",
+   "rawTitle": "Various stages of development in Krishna Consciousness- From Sraddha to Prema-1 (Intro, Sraddha, Sadhu Sanga)",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-12"
+   ]
+  },
+  {
+   "id": "dps-13",
+   "sourceId": "f16e78ed-d324-4477-8614-6eb6b4032874",
+   "batch": "dps",
+   "number": 13,
+   "title": "Various stages of development in Krishna Consciousness- From Sraddha to Prema-2 (Bhajan kriya)",
+   "rawTitle": "Various stages of development in Krishna Consciousness- From Sraddha to Prema-2 (Bhajan kriya)",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-13"
+   ]
+  },
+  {
+   "id": "dps-14",
+   "sourceId": "993e6079-924d-4e2a-962e-c994aa371b86",
+   "batch": "dps",
+   "number": 14,
+   "title": "Various stages of development in Krishna Consciousness- From Sraddha to Prema-3 (Anartha Nivritti)",
+   "rawTitle": "Various stages of development in Krishna Consciousness- From Sraddha to Prema-3 (Anartha Nivritti)",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-14"
+   ]
+  },
+  {
+   "id": "dps-15",
+   "sourceId": "ae8ce7f5-9dee-405c-9d12-c8ddd7138961",
+   "batch": "dps",
+   "number": 15,
+   "title": "Various stages of development in Krishna Consciousness- From Sraddha to Prema-4 (Nistha)",
+   "rawTitle": "Various stages of development in Krishna Consciousness- From Sraddha to Prema-4 (Nistha)",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-15"
+   ]
+  },
+  {
+   "id": "dps-16",
+   "sourceId": "dc2aa845-5b1b-4e93-9792-51d059c43534",
+   "batch": "dps",
+   "number": 16,
+   "title": "Various stages of development in Krishna Consciousness- From Sraddha to Prema-5 (Ruchi)",
+   "rawTitle": "Various stages of development in Krishna Consciousness- From Sraddha to Prema-5 (Ruchi)",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-16"
+   ]
+  },
+  {
+   "id": "dps-17",
+   "sourceId": "d4ec8f57-57ec-4275-965e-867d11886859",
+   "batch": "dps",
+   "number": 17,
+   "title": "Various stages of development in Krishna Consciousness- From Sraddha to Prema-6 (Asakti)",
+   "rawTitle": "Various stages of development in Krishna Consciousness- From Sraddha to Prema-6 (Asakti)",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-17"
+   ]
+  },
+  {
+   "id": "dps-18",
+   "sourceId": "cc70588e-48d7-4bc6-8cdf-0305cc8c0acc",
+   "batch": "dps",
+   "number": 18,
+   "title": "Various stages of development in Krishna Consciousness- From Sraddha to Prema-7 (Bhava & Prema)",
+   "rawTitle": "Various stages of development in Krishna Consciousness- From Sraddha to Prema-7 (Bhava & Prema)",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-18"
+   ]
+  },
+  {
+   "id": "dps-19",
+   "sourceId": "4d45fde5-6ff8-4ebe-98f9-b71c3563e2d9",
+   "batch": "dps",
+   "number": 19,
+   "title": "Overcoming False Ego",
+   "rawTitle": "Overcoming False Ego",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-19"
+   ],
+   "alsoIn": [
+    "sps-21"
+   ]
+  },
+  {
+   "id": "dps-20",
+   "sourceId": "c15837ff-2dcc-4d39-91bb-7ab40f472abe",
+   "batch": "dps",
+   "number": 20,
+   "title": "Overcoming envy",
+   "rawTitle": "Overcoming envy",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-20"
+   ],
+   "alsoIn": [
+    "sps-22"
+   ]
+  },
+  {
+   "id": "dps-21",
+   "sourceId": "59363e7f-810d-4111-ad87-d88397c039ff",
+   "batch": "dps",
+   "number": 21,
+   "title": "Overcoming Superiority complex and Impoliteness",
+   "rawTitle": "Overcoming Superiority complex and Impoliteness",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-21"
+   ]
+  },
+  {
+   "id": "dps-22",
+   "sourceId": "4d51261d-e3c3-4aa0-8fed-177e9465ca22",
+   "batch": "dps",
+   "number": 22,
+   "title": "How to give and receive constructive criticism",
+   "rawTitle": "How to give and receive constructive criticism",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-22"
+   ],
+   "alsoIn": [
+    "sps-30"
+   ]
+  },
+  {
+   "id": "dps-23",
+   "sourceId": "9c437c9c-8f2a-4051-ab58-c1d05948e249",
+   "batch": "dps",
+   "number": 23,
+   "title": "Learning to see good in others & How to give and receive appreciation",
+   "rawTitle": "Learning to see good in others & How to give and receive appreciation",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "video"
+    ]
+   },
+   "updated": "2026-01-21T06:00:39.35852+00:00",
+   "siteRows": [
+    "dps-23"
+   ],
+   "alsoIn": [
+    "sps-34"
+   ]
+  },
+  {
+   "id": "dps-24",
+   "sourceId": "5413e19f-14a8-46e8-849c-6b56f63cde53",
+   "batch": "dps",
+   "number": 24,
+   "title": "Overcoming Inferiority Complex",
+   "rawTitle": "Overcoming Inferiority Complex",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-24"
+   ]
+  },
+  {
+   "id": "dps-25",
+   "sourceId": "ab74eb16-382d-49ce-9134-3f59fbd04d51",
+   "batch": "dps",
+   "number": 25,
+   "title": "Dealings with Seniors, Equals & Juniors - Dealings with different levels of devotees",
+   "rawTitle": "Dealings with Seniors, Equals & Juniors - Dealings with different levels of devotees",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-25"
+   ],
+   "alsoIn": [
+    "sps-17"
+   ]
+  },
+  {
+   "id": "dps-26",
+   "sourceId": "2f11e533-a596-47a7-89cc-61d13e7c9ccf",
+   "batch": "dps",
+   "number": 26,
+   "title": "Dedicating for the higher cause - Use your talents and faculties for spreading KC?- Useful Skills - Preaching, cooking, musical, management, etc.",
+   "rawTitle": "Dedicating for the higher cause - Use your talents and faculties for spreading KC?- Useful Skills - Preaching, cooking, musical, management, etc.",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-26"
+   ],
+   "alsoIn": [
+    "sps-20"
+   ]
+  },
+  {
+   "id": "dps-27",
+   "sourceId": "3c59d90a-aec0-4fdb-8a36-5b413ad9e528",
+   "batch": "dps",
+   "number": 27,
+   "title": "64 items of devotional service in practice Part-1",
+   "rawTitle": "64 items of devotional service in practice Part-1",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-27"
+   ]
+  },
+  {
+   "id": "dps-28",
+   "sourceId": "be4dc90b-2c2b-441b-be86-f045c839a03c",
+   "batch": "dps",
+   "number": 28,
+   "title": "64 items of devotional service in practice Part-2",
+   "rawTitle": "64 items of devotional service in practice Part-2",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-28"
+   ]
+  },
+  {
+   "id": "dps-29",
+   "sourceId": "67ed49dd-9eb7-478a-b526-b37b87971993",
+   "batch": "dps",
+   "number": 29,
+   "title": "64 items of devotional service in practice Part-3",
+   "rawTitle": "64 items of devotional service in practice Part-3",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-29"
+   ]
+  },
+  {
+   "id": "dps-30",
+   "sourceId": "85b9ebd5-c00c-41ce-a33e-830b0db22111",
+   "batch": "dps",
+   "number": 30,
+   "title": "Spontaneous devotional service",
+   "rawTitle": "Spontaneous devotional service",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-30"
+   ]
+  },
+  {
+   "id": "dps-31",
+   "sourceId": "a799b873-b4c2-4e79-85c6-30e3e364b118",
+   "batch": "dps",
+   "number": 31,
+   "title": "Viragya & yukta Vairagya",
+   "rawTitle": "Viragya & yukta Vairagya",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-31"
+   ]
+  },
+  {
+   "id": "dps-32",
+   "sourceId": "4ea26021-954a-4605-9222-577925ced772",
+   "batch": "dps",
+   "number": 32,
+   "title": "Six urges to control- Character & Purity (NOI-1)",
+   "rawTitle": "Six urges to control- Character & Purity (NOI-1)",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-32"
+   ]
+  },
+  {
+   "id": "dps-33",
+   "sourceId": "5b2f1b1e-95cb-4f14-9314-3af66fd3e58c",
+   "batch": "dps",
+   "number": 33,
+   "title": "Six things favourable for Bhakti (NOI-2)",
+   "rawTitle": "Six things favourable for Bhakti (NOI-2)",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-33"
+   ]
+  },
+  {
+   "id": "dps-34",
+   "sourceId": "c52ac44f-4998-469b-b0a1-e2b04ba9ff7b",
+   "batch": "dps",
+   "number": 34,
+   "title": "Six things unfavourable for Bhakti (NOI-3)",
+   "rawTitle": "Six things unfavourable for Bhakti (NOI-3)",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-34"
+   ]
+  },
+  {
+   "id": "dps-35",
+   "sourceId": "7c5af946-1860-4c22-a7ce-65297f31d4f2",
+   "batch": "dps",
+   "number": 35,
+   "title": "Jana Sanga- Various categories of asat sanga- Being careful of Non Devotees- Indifferent to others opinions",
+   "rawTitle": "Jana Sanga- Various categories of asat sanga- Being careful of Non Devotees- Indifferent to others opinions",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-35"
+   ],
+   "alsoIn": [
+    "sps-31"
+   ]
+  },
+  {
+   "id": "dps-36",
+   "sourceId": "599a4372-3e62-4545-8f5e-97cdf550de77",
+   "batch": "dps",
+   "number": 36,
+   "title": "Six ways of developing relationships among devotees- Learning the art of associating with vaishnavas (NOI-4)",
+   "rawTitle": "Six ways of developing relationships among devotees- Learning the art of associating with vaishnavas (NOI-4)",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-36"
+   ]
+  },
+  {
+   "id": "dps-37",
+   "sourceId": "d6149bd2-b11c-4eeb-9e07-26e4bcf02b05",
+   "batch": "dps",
+   "number": 37,
+   "title": "26 Qualities of Vaishnavas - 1 (1-6 qualities)(If some qualities are covered as single topics then it can be skipped)",
+   "rawTitle": "26 Qualities of Vaishnavas - 1 (1-6 qualities)(If some qualities are covered as single topics then it can be skipped)",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-37"
+   ]
+  },
+  {
+   "id": "dps-38",
+   "sourceId": "08b29883-153f-4ae6-825c-5d9706cd6b7c",
+   "batch": "dps",
+   "number": 38,
+   "title": "26 Qualities of Vaishnavas - 2 (7-12 qualities) (If some qualities are covered as single topics then it can be skipped)",
+   "rawTitle": "26 Qualities of Vaishnavas - 2 (7-12 qualities) (If some qualities are covered as single topics then it can be skipped)",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-38"
+   ]
+  },
+  {
+   "id": "dps-39",
+   "sourceId": "657edd6e-811c-4e5c-9968-3363e6ec0331",
+   "batch": "dps",
+   "number": 39,
+   "title": "26 Qualities of Vaishnavas - 3 (13-18 qualities) (If some qualities are covered as single topics then it can be skipped)",
+   "rawTitle": "26 Qualities of Vaishnavas - 3 (13-18 qualities) (If some qualities are covered as single topics then it can be skipped)",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-39"
+   ]
+  },
+  {
+   "id": "dps-40",
+   "sourceId": "aceb1218-b701-40c2-ac40-1ea090edf227",
+   "batch": "dps",
+   "number": 40,
+   "title": "26 Qualities of Vaishnavas - 4 (19-26 qualities) (If some qualities are covered as single topics then it can be skipped)",
+   "rawTitle": "26 Qualities of Vaishnavas - 4 (19-26 qualities) (If some qualities are covered as single topics then it can be skipped)",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-40"
+   ]
+  },
+  {
+   "id": "dps-41",
+   "sourceId": "7fe0f201-0a00-4747-8e32-35beb7a5da54",
+   "batch": "dps",
+   "number": 41,
+   "title": "Srila Prabhupad- the founder Acharya- Developing attachment to the Founder Acharya- Srila Prabhupad's life & teachings",
+   "rawTitle": "Srila Prabhupad- the founder Acharya- Developing attachment to the Founder Acharya- Srila Prabhupad's life & teachings",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-41"
+   ]
+  },
+  {
+   "id": "dps-42",
+   "sourceId": "9ee36b7f-cb65-4b97-a186-8fb1795e4e66",
+   "batch": "dps",
+   "number": 42,
+   "title": "Life History of Srila Rupa Goswami",
+   "rawTitle": "Life History of Srila Rupa Goswami",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-42"
+   ],
+   "alsoIn": [
+    "sps-25"
+   ]
+  },
+  {
+   "id": "dps-43",
+   "sourceId": "aa6e6ef7-d008-49ca-8964-42834e911a2d",
+   "batch": "dps",
+   "number": 43,
+   "title": "Various CONTROVERSIAL ISSUE - Jiva Fall - Gopi Bhav Club - Apasampradaya - Poison Issue",
+   "rawTitle": "Various CONTROVERSIAL ISSUE - Jiva Fall - Gopi Bhav Club - Apasampradaya - Poison Issue",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T05:59:29.850479+00:00",
+   "siteRows": [
+    "dps-43"
+   ]
+  },
+  {
+   "id": "dps-44",
+   "sourceId": "4ac58eb4-1584-426b-a611-948d21f2a7c9",
+   "batch": "dps",
+   "number": 44,
+   "title": "Life History of Srila Sanatan Goswami",
+   "rawTitle": "Life History of Srila Sanatan Goswami",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "doc"
+    ]
+   },
+   "updated": "2026-01-21T06:03:03.704097+00:00",
+   "siteRows": [
+    "dps-44"
+   ],
+   "alsoIn": [
+    "sps-35"
+   ]
+  },
+  {
+   "id": "dps-45",
+   "sourceId": "0ef4df2e-1a95-4217-b6c3-32ad4b32416d",
+   "batch": "dps",
+   "number": 45,
+   "title": "Life History of Srila Jiva Goswami",
+   "rawTitle": "Life History of Srila Jiva Goswami",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "doc"
+    ]
+   },
+   "updated": "2026-01-21T06:03:38.598129+00:00",
+   "siteRows": [
+    "dps-45"
+   ],
+   "alsoIn": [
+    "sps-36"
+   ]
+  },
+  {
+   "id": "dps-46",
+   "sourceId": "c648b222-b024-4624-a8a3-3fc8fe99f96f",
+   "batch": "dps",
+   "number": 46,
+   "title": "Life History of Srila Raghunath Das Goswami",
+   "rawTitle": "Life History of Srila Raghunath Das Goswami",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "doc"
+    ]
+   },
+   "updated": "2026-01-21T06:04:02.279429+00:00",
+   "siteRows": [
+    "dps-46"
+   ],
+   "alsoIn": [
+    "sps-37"
+   ]
+  },
+  {
+   "id": "dps-47",
+   "sourceId": "85c26ea3-9d43-4c87-8543-63f12e115b93",
+   "batch": "dps",
+   "number": 47,
+   "title": "Life History of Srila Gopal Bhatta Goswami",
+   "rawTitle": "Life History of Srila Gopal Bhatta Goswami",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T06:04:14.904094+00:00",
+   "siteRows": [
+    "dps-47"
+   ],
+   "alsoIn": [
+    "sps-38"
+   ]
+  },
+  {
+   "id": "dps-48",
+   "sourceId": "73602bea-78c4-4106-a6ff-d1e803050677",
+   "batch": "dps",
+   "number": 48,
+   "title": "Life History of Srila Raghunath Bhatta goswami",
+   "rawTitle": "Life History of Srila Raghunath Bhatta goswami",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": [
+     "doc"
+    ]
+   },
+   "updated": "2026-01-21T06:04:42.605555+00:00",
+   "siteRows": [
+    "dps-48"
+   ],
+   "alsoIn": [
+    "sps-39"
+   ]
+  },
+  {
+   "id": "dps-49",
+   "sourceId": "69232e4a-eef0-41f0-b390-81a5ca292d6f",
+   "batch": "dps",
+   "number": 49,
+   "title": "Life History of Srila Lokanath Goswami & Bhugarbh Goswami",
+   "rawTitle": "Life History of Srila Lokanath Goswami & Bhugarbh Goswami",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T06:05:01.556255+00:00",
+   "siteRows": [
+    "dps-49"
+   ]
+  },
+  {
+   "id": "dps-50",
+   "sourceId": "52aaf835-814e-4621-8ceb-03150c2ec84e",
+   "batch": "dps",
+   "number": 50,
+   "title": "Life of Srila Narottam Das Thakur",
+   "rawTitle": "Life of Srila Narottam Das Thakur",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T06:05:14.524657+00:00",
+   "siteRows": [
+    "dps-50"
+   ]
+  },
+  {
+   "id": "dps-51",
+   "sourceId": "1333ddad-1132-4755-a2f8-c68bb316ad59",
+   "batch": "dps",
+   "number": 51,
+   "title": "Life History of Srila Shyamanada Pr",
+   "rawTitle": "Life History of Srila Shyamanada Pr",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T06:05:38.121958+00:00",
+   "siteRows": [
+    "dps-51"
+   ]
+  },
+  {
+   "id": "dps-52",
+   "sourceId": "1f2d9463-00e0-45d0-8425-8e7d6d229fbb",
+   "batch": "dps",
+   "number": 52,
+   "title": "Life History of Srinivas Acharya",
+   "rawTitle": "Life History of Srinivas Acharya",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T06:05:50.877579+00:00",
+   "siteRows": [
+    "dps-52"
+   ]
+  },
+  {
+   "id": "dps-53",
+   "sourceId": "6396f569-b2c6-481b-a285-3f4318219c8c",
+   "batch": "dps",
+   "number": 53,
+   "title": "Life History of Srila Viswanath Chakravarty Thakur & Life History of Srila Baladeva Vidyabhushan Thakur",
+   "rawTitle": "Life History of Srila Viswanath Chakravarty Thakur & Life History of Srila Baladeva Vidyabhushan Thakur",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T06:06:11.884839+00:00",
+   "siteRows": [
+    "dps-53"
+   ]
+  },
+  {
+   "id": "dps-54",
+   "sourceId": "e2ec2491-fb2a-44f9-9958-9887970c4e30",
+   "batch": "dps",
+   "number": 54,
+   "title": "Glories of Sri Vrindavan Dham",
+   "rawTitle": "Glories of Sri Vrindavan Dham",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T06:06:37.85862+00:00",
+   "siteRows": [
+    "dps-54"
+   ]
+  },
+  {
+   "id": "dps-55",
+   "sourceId": "2038c65f-556f-4022-8d8f-7e3432c57fbe",
+   "batch": "dps",
+   "number": 55,
+   "title": "How to see Sri Vrindavan Dham (10 offenses to the Holy Dham)",
+   "rawTitle": "How to see Sri Vrindavan Dham (10 offenses to the Holy Dham)",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T06:06:49.998023+00:00",
+   "siteRows": [
+    "dps-55"
+   ]
+  },
+  {
+   "id": "dps-56",
+   "sourceId": "adaac14d-c554-496c-8363-af999c30b6b6",
+   "batch": "dps",
+   "number": 56,
+   "title": "Choosing Ashram",
+   "rawTitle": "Choosing Ashram",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T06:07:06.356293+00:00",
+   "siteRows": [
+    "dps-56"
+   ]
+  },
+  {
+   "id": "dps-57",
+   "sourceId": "792a2fa1-2c0d-41c0-b053-e47f0eb63064",
+   "batch": "dps",
+   "number": 57,
+   "title": "Art of Tolerance & Forgiveness",
+   "rawTitle": "Art of Tolerance & Forgiveness",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": true,
+    "resources": []
+   },
+   "updated": "2026-01-21T06:07:48.721293+00:00",
+   "siteRows": [
+    "dps-57"
+   ]
+  },
+  {
+   "id": "bss-01",
+   "sourceId": "d96d72cf-26b0-499b-af1a-5a3555f2b752",
+   "batch": "bss",
+   "number": 1,
+   "title": "Renunciation & surrender of Raghunath Das Goswami.",
+   "rawTitle": "Renunciation & surrender of Raghunath Das Goswami.",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:02.283387+00:00",
+   "siteRows": [
+    "bss-01"
+   ]
+  },
+  {
+   "id": "bss-02",
+   "sourceId": "dd31beda-605e-4966-97de-195dd04d8a3d",
+   "batch": "bss",
+   "number": 2,
+   "title": "Dhruva’s determination",
+   "rawTitle": "Dhruva’s determination",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:02.418172+00:00",
+   "siteRows": [
+    "bss-02"
+   ]
+  },
+  {
+   "id": "bss-03",
+   "sourceId": "96843586-b7df-447d-994a-583bfae255f2",
+   "batch": "bss",
+   "number": 3,
+   "title": "Chota Haridas pastime",
+   "rawTitle": "Chota Haridas pastime",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:02.537182+00:00",
+   "siteRows": [
+    "bss-03"
+   ]
+  },
+  {
+   "id": "bss-04",
+   "sourceId": "2fe26163-6d8d-4015-bb2c-511673232e8e",
+   "batch": "bss",
+   "number": 4,
+   "title": "Lord Caitanya and Milk-drinking Brahmacari",
+   "rawTitle": "Lord Caitanya and Milk-drinking Brahmacari",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:02.65143+00:00",
+   "siteRows": [
+    "bss-04"
+   ]
+  },
+  {
+   "id": "bss-05",
+   "sourceId": "d1d8c864-ebfd-4026-b154-ca7c2687b6f6",
+   "batch": "bss",
+   "number": 5,
+   "title": "From contemplation to fall down : How to avoid it ? - Ajamila drama",
+   "rawTitle": "From contemplation to fall down : How to avoid it ? - Ajamila drama",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:02.772547+00:00",
+   "siteRows": [
+    "bss-05"
+   ]
+  },
+  {
+   "id": "bss-06",
+   "sourceId": "63fff6af-e7b3-4b90-93df-c731a7b76a8f",
+   "batch": "bss",
+   "number": 6,
+   "title": "Teachings of Prahlad maharaj to his demoniac schoolmates",
+   "rawTitle": "Teachings of Prahlad maharaj to his demoniac schoolmates",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:02.889149+00:00",
+   "siteRows": [
+    "bss-06"
+   ]
+  },
+  {
+   "id": "bss-07",
+   "sourceId": "513f9e33-2f24-4e7c-91ca-0e6721e89101",
+   "batch": "bss",
+   "number": 7,
+   "title": "Teachings of Lord Rishabhadev to his hundred sons",
+   "rawTitle": "Teachings of Lord Rishabhadev to his hundred sons",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:03.002525+00:00",
+   "siteRows": [
+    "bss-07"
+   ]
+  },
+  {
+   "id": "bss-08",
+   "sourceId": "2ef512a8-7557-408e-8cf2-5a1a65b833db",
+   "batch": "bss",
+   "number": 8,
+   "title": "The twenty four gurus of Avadhuta brahmana",
+   "rawTitle": "The twenty four gurus of Avadhuta brahmana",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:03.116429+00:00",
+   "siteRows": [
+    "bss-08"
+   ]
+  },
+  {
+   "id": "bss-09",
+   "sourceId": "f7820b53-c3ed-458f-add6-cdba68b46f62",
+   "batch": "bss",
+   "number": 9,
+   "title": "Sermons of Avadhuta brahmana to Prahlada maharaj",
+   "rawTitle": "Sermons of Avadhuta brahmana to Prahlada maharaj",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:03.230195+00:00",
+   "siteRows": [
+    "bss-09"
+   ]
+  },
+  {
+   "id": "bss-10",
+   "sourceId": "9d1a4564-dcd8-4cfb-b5f2-9ade99118ce1",
+   "batch": "bss",
+   "number": 10,
+   "title": "The Forest of Material enjoyment",
+   "rawTitle": "The Forest of Material enjoyment",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:03.351687+00:00",
+   "siteRows": [
+    "bss-10"
+   ]
+  },
+  {
+   "id": "bss-11",
+   "sourceId": "c90b8952-05d5-4d5c-b9c2-6d71b0b8303c",
+   "batch": "bss",
+   "number": 11,
+   "title": "Realisations of Maharaja Yayati",
+   "rawTitle": "Realisations of Maharaja Yayati",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:03.467207+00:00",
+   "siteRows": [
+    "bss-11"
+   ]
+  },
+  {
+   "id": "bss-12",
+   "sourceId": "e1f967b6-7304-4980-85cc-562051eb5d61",
+   "batch": "bss",
+   "number": 12,
+   "title": "Haridas Thakur and the prostitute",
+   "rawTitle": "Haridas Thakur and the prostitute",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:03.580169+00:00",
+   "siteRows": [
+    "bss-12"
+   ]
+  },
+  {
+   "id": "bss-13",
+   "sourceId": "4383563d-61ff-48c7-9993-2d7f74bd6232",
+   "batch": "bss",
+   "number": 13,
+   "title": "Dhrtarashtra quits home",
+   "rawTitle": "Dhrtarashtra quits home",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:03.693735+00:00",
+   "siteRows": [
+    "bss-13"
+   ]
+  },
+  {
+   "id": "bss-14",
+   "sourceId": "8a6a2972-cf70-4242-9b73-b24613f4a850",
+   "batch": "bss",
+   "number": 14,
+   "title": "Teachings of Lord Kapila to Mother Devahuti",
+   "rawTitle": "Teachings of Lord Kapila to Mother Devahuti",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:03.806115+00:00",
+   "siteRows": [
+    "bss-14"
+   ]
+  },
+  {
+   "id": "bss-15",
+   "sourceId": "abc198e1-ebed-43b0-9b05-2c4b446ca8e4",
+   "batch": "bss",
+   "number": 15,
+   "title": "BIKC (Brahmachari In Krishna Consciousness)",
+   "rawTitle": "\"BIKC (Brahmachari In Krishna Consciousness)",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "group-header",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:03.9241+00:00",
+   "siteRows": [
+    "bss-15"
+   ]
+  },
+  {
+   "id": "bss-16",
+   "sourceId": "835b950f-1256-4603-989d-2215bb4fa085",
+   "batch": "bss",
+   "number": 16,
+   "title": "1. The Meaning of Brahmacarya",
+   "rawTitle": "1. The Meaning of Brahmacarya",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:04.036062+00:00",
+   "group": "BIKC",
+   "bikcChapter": 1,
+   "siteRows": [
+    "bss-16"
+   ]
+  },
+  {
+   "id": "bss-17",
+   "sourceId": "14ed8f81-2c90-415a-b6c3-6eae8a1fae4a",
+   "batch": "bss",
+   "number": 17,
+   "title": "2. The Benefits of Bramacarya",
+   "rawTitle": "2. The Benefits of Bramacarya",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:04.150818+00:00",
+   "group": "BIKC",
+   "bikcChapter": 2,
+   "siteRows": [
+    "bss-17"
+   ]
+  },
+  {
+   "id": "bss-18",
+   "sourceId": "8d7f88bc-ae1d-472f-a400-7e60bcb3212b",
+   "batch": "bss",
+   "number": 18,
+   "title": "3. \"Brahmacari \" is Also a Designation",
+   "rawTitle": "3. \"\"Brahmacari \"\" is Also a Designation",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:04.270998+00:00",
+   "group": "BIKC",
+   "bikcChapter": 3,
+   "siteRows": [
+    "bss-18"
+   ]
+  },
+  {
+   "id": "bss-19",
+   "sourceId": "cdb6dce9-7843-43fe-974d-77223f9e7892",
+   "batch": "bss",
+   "number": 19,
+   "title": "4. Ädi-rasa",
+   "rawTitle": "4. Ädi-rasa\"",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:04.39451+00:00",
+   "group": "BIKC",
+   "bikcChapter": 4,
+   "siteRows": [
+    "bss-19"
+   ]
+  },
+  {
+   "id": "bss-20",
+   "sourceId": "a52b56c9-8fd5-4b11-adea-032ddc674d1a",
+   "batch": "bss",
+   "number": 20,
+   "title": "BIKC (Brahmachari In Krishna Consciousness)",
+   "rawTitle": "\"BIKC (Brahmachari In Krishna Consciousness)",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "group-header",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:04.506888+00:00",
+   "siteRows": [
+    "bss-20"
+   ]
+  },
+  {
+   "id": "bss-21",
+   "sourceId": "5bef7ad1-5d61-41b2-bf76-9b8853df261f",
+   "batch": "bss",
+   "number": 21,
+   "title": "5. Mundane Sex Desires",
+   "rawTitle": "5. Mundane Sex Desires",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:04.622345+00:00",
+   "group": "BIKC",
+   "bikcChapter": 5,
+   "siteRows": [
+    "bss-21"
+   ]
+  },
+  {
+   "id": "bss-22",
+   "sourceId": "989dcd76-16c9-4763-8903-09af0a6d50bc",
+   "batch": "bss",
+   "number": 22,
+   "title": "6. Sex—The Cause of Unlimited Suffering",
+   "rawTitle": "6. Sex—The Cause of Unlimited Suffering",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:04.7353+00:00",
+   "group": "BIKC",
+   "bikcChapter": 6,
+   "siteRows": [
+    "bss-22"
+   ]
+  },
+  {
+   "id": "bss-23",
+   "sourceId": "f9f87efb-922d-4d21-b85b-a568e6f6a09c",
+   "batch": "bss",
+   "number": 23,
+   "title": "7. Sex Fascination—The Disease of the Modern Age",
+   "rawTitle": "7. Sex Fascination—The Disease of the Modern Age",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:04.84996+00:00",
+   "group": "BIKC",
+   "bikcChapter": 7,
+   "siteRows": [
+    "bss-23"
+   ]
+  },
+  {
+   "id": "bss-24",
+   "sourceId": "233077a4-7850-4fcf-ac92-0bc7845d58eb",
+   "batch": "bss",
+   "number": 24,
+   "title": "8. Sense Gratification",
+   "rawTitle": "8. Sense Gratification\"",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:04.977005+00:00",
+   "group": "BIKC",
+   "bikcChapter": 8,
+   "siteRows": [
+    "bss-24"
+   ]
+  },
+  {
+   "id": "bss-25",
+   "sourceId": "26be294f-b142-4e28-bc4e-cb32fc448824",
+   "batch": "bss",
+   "number": 25,
+   "title": "BIKC (Brahmachari In Krishna Consciousness)",
+   "rawTitle": "\"BIKC (Brahmachari In Krishna Consciousness)",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "group-header",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:05.091682+00:00",
+   "siteRows": [
+    "bss-25"
+   ]
+  },
+  {
+   "id": "bss-26",
+   "sourceId": "189b246a-f6c6-425c-b2eb-596aa8b29484",
+   "batch": "bss",
+   "number": 26,
+   "title": "14. Detachment, Austerity, and Renunciation",
+   "rawTitle": "14. Detachment, Austerity, and Renunciation",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:05.20257+00:00",
+   "group": "BIKC",
+   "bikcChapter": 14,
+   "siteRows": [
+    "bss-26"
+   ]
+  },
+  {
+   "id": "bss-27",
+   "sourceId": "d8a84269-e51b-4ea0-ac86-f6d46f0e1e09",
+   "batch": "bss",
+   "number": 27,
+   "title": "15. Discipline",
+   "rawTitle": "15. Discipline",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:05.320466+00:00",
+   "group": "BIKC",
+   "bikcChapter": 15,
+   "siteRows": [
+    "bss-27"
+   ]
+  },
+  {
+   "id": "bss-28",
+   "sourceId": "33be289c-fe35-47b2-a905-aa51f2e14389",
+   "batch": "bss",
+   "number": 28,
+   "title": "16. Determination",
+   "rawTitle": "16. Determination\"",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:05.441064+00:00",
+   "group": "BIKC",
+   "bikcChapter": 16,
+   "siteRows": [
+    "bss-28"
+   ]
+  },
+  {
+   "id": "bss-29",
+   "sourceId": "ef1ea6ad-1095-4e6c-a845-b8b95110c93a",
+   "batch": "bss",
+   "number": 29,
+   "title": "BIKC (Brahmachari In Krishna Consciousness)",
+   "rawTitle": "\"BIKC (Brahmachari In Krishna Consciousness)",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "group-header",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:05.555989+00:00",
+   "siteRows": [
+    "bss-29"
+   ]
+  },
+  {
+   "id": "bss-30",
+   "sourceId": "7462d86a-0808-41d6-be40-2a9860938c09",
+   "batch": "bss",
+   "number": 30,
+   "title": "34. Attitudes Towards Gåhastha Men",
+   "rawTitle": "34. Attitudes Towards Gåhastha Men",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:05.670968+00:00",
+   "group": "BIKC",
+   "bikcChapter": 34,
+   "siteRows": [
+    "bss-30"
+   ]
+  },
+  {
+   "id": "bss-31",
+   "sourceId": "3741eb55-0398-4204-b9b9-7589191b9cc5",
+   "batch": "bss",
+   "number": 31,
+   "title": "35. Dealings with Women Devotees",
+   "rawTitle": "35. Dealings with Women Devotees",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:05.783679+00:00",
+   "group": "BIKC",
+   "bikcChapter": 35,
+   "siteRows": [
+    "bss-31"
+   ]
+  },
+  {
+   "id": "bss-32",
+   "sourceId": "93de74ae-96f5-412c-83ac-7cfa87424059",
+   "batch": "bss",
+   "number": 32,
+   "title": "36. Dealings with Nondevotee Women",
+   "rawTitle": "36. Dealings with Nondevotee Women",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:05.895574+00:00",
+   "group": "BIKC",
+   "bikcChapter": 36,
+   "siteRows": [
+    "bss-32"
+   ]
+  },
+  {
+   "id": "bss-33",
+   "sourceId": "3540f826-4509-4c6b-8702-1de48adfdf1e",
+   "batch": "bss",
+   "number": 33,
+   "title": "37. Dealings with Children",
+   "rawTitle": "37. Dealings with Children",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:06.011314+00:00",
+   "group": "BIKC",
+   "bikcChapter": 37,
+   "siteRows": [
+    "bss-33"
+   ]
+  },
+  {
+   "id": "bss-34",
+   "sourceId": "63c4900b-8ac6-4ba9-a459-8dc2f45bb456",
+   "batch": "bss",
+   "number": 34,
+   "title": "38. Dealings with Family and Friends",
+   "rawTitle": "38. Dealings with Family and Friends",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:06.122736+00:00",
+   "group": "BIKC",
+   "bikcChapter": 38,
+   "siteRows": [
+    "bss-34"
+   ]
+  },
+  {
+   "id": "bss-35",
+   "sourceId": "38bfe847-aa70-457f-8283-2f9ec71d3ab1",
+   "batch": "bss",
+   "number": 35,
+   "title": "39. Dealings with Nondevotees in General",
+   "rawTitle": "39. Dealings with Nondevotees in General\"",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:06.238502+00:00",
+   "group": "BIKC",
+   "bikcChapter": 39,
+   "siteRows": [
+    "bss-35"
+   ]
+  },
+  {
+   "id": "bss-36",
+   "sourceId": "922420c7-db7e-4b19-8f3b-a78f246438b0",
+   "batch": "bss",
+   "number": 36,
+   "title": "BIKC (Brahmachari In Krishna Consciousness)",
+   "rawTitle": "\"BIKC (Brahmachari In Krishna Consciousness)",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "group-header",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:06.351238+00:00",
+   "siteRows": [
+    "bss-36"
+   ]
+  },
+  {
+   "id": "bss-37",
+   "sourceId": "b183b91d-c3b4-46af-9c47-dbecece65d64",
+   "batch": "bss",
+   "number": 37,
+   "title": "26. Retention of Semen",
+   "rawTitle": "26. Retention of Semen",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:06.46863+00:00",
+   "group": "BIKC",
+   "bikcChapter": 26,
+   "siteRows": [
+    "bss-37"
+   ]
+  },
+  {
+   "id": "bss-38",
+   "sourceId": "bf074404-6a90-4e47-8066-700b45b35ddb",
+   "batch": "bss",
+   "number": 38,
+   "title": "28. Nakedness",
+   "rawTitle": "28. Nakedness",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:06.579713+00:00",
+   "group": "BIKC",
+   "bikcChapter": 28,
+   "siteRows": [
+    "bss-38"
+   ]
+  },
+  {
+   "id": "bss-39",
+   "sourceId": "63611c6d-1c06-408c-9d61-2c9cc147bbcb",
+   "batch": "bss",
+   "number": 39,
+   "title": "43. Overcoming Sexual Desire",
+   "rawTitle": "43. Overcoming Sexual Desire",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:06.698292+00:00",
+   "group": "BIKC",
+   "bikcChapter": 43,
+   "siteRows": [
+    "bss-39"
+   ]
+  },
+  {
+   "id": "bss-40",
+   "sourceId": "e432a8c0-7e01-4e79-87c6-e5ec2ec4619b",
+   "batch": "bss",
+   "number": 40,
+   "title": "44. Falldown",
+   "rawTitle": "44. Falldown",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:06.813876+00:00",
+   "group": "BIKC",
+   "bikcChapter": 44,
+   "siteRows": [
+    "bss-40"
+   ]
+  },
+  {
+   "id": "bss-41",
+   "sourceId": "9ec00def-8a16-4fa4-ac5e-15b4c209995b",
+   "batch": "bss",
+   "number": 41,
+   "title": "45. Masturbation",
+   "rawTitle": "45. Masturbation",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:06.931127+00:00",
+   "group": "BIKC",
+   "bikcChapter": 45,
+   "siteRows": [
+    "bss-41"
+   ]
+  },
+  {
+   "id": "bss-42",
+   "sourceId": "498b2340-794a-48d7-bafe-8315a2ab2f11",
+   "batch": "bss",
+   "number": 42,
+   "title": "46. Homosexuality",
+   "rawTitle": "46. Homosexuality\"",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:07.042558+00:00",
+   "group": "BIKC",
+   "bikcChapter": 46,
+   "siteRows": [
+    "bss-42"
+   ]
+  },
+  {
+   "id": "bss-43",
+   "sourceId": "fa269644-24cc-44d1-a85b-479937bbe867",
+   "batch": "bss",
+   "number": 43,
+   "title": "BIKC (Brahmachari In Krishna Consciousness)",
+   "rawTitle": "\"BIKC (Brahmachari In Krishna Consciousness)",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "group-header",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:07.169429+00:00",
+   "siteRows": [
+    "bss-43"
+   ]
+  },
+  {
+   "id": "bss-44",
+   "sourceId": "d6e5b60b-8f00-401c-8948-e0aebcc89ea2",
+   "batch": "bss",
+   "number": 44,
+   "title": "20. Sädhana",
+   "rawTitle": "20. Sädhana",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:07.283468+00:00",
+   "group": "BIKC",
+   "bikcChapter": 20,
+   "siteRows": [
+    "bss-44"
+   ]
+  },
+  {
+   "id": "bss-45",
+   "sourceId": "1b4c0708-a8d6-46f2-ad26-6014c0024981",
+   "batch": "bss",
+   "number": 45,
+   "title": "21. Regulation",
+   "rawTitle": "21. Regulation",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:07.402612+00:00",
+   "group": "BIKC",
+   "bikcChapter": 21,
+   "siteRows": [
+    "bss-45"
+   ]
+  },
+  {
+   "id": "bss-46",
+   "sourceId": "61535f5b-a952-4e81-afd0-4433379d2259",
+   "batch": "bss",
+   "number": 46,
+   "title": "22. Engagement",
+   "rawTitle": "22. Engagement",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:07.514189+00:00",
+   "group": "BIKC",
+   "bikcChapter": 22,
+   "siteRows": [
+    "bss-46"
+   ]
+  },
+  {
+   "id": "bss-47",
+   "sourceId": "bdabca7f-feee-426b-b6b8-a007f1b0f430",
+   "batch": "bss",
+   "number": 47,
+   "title": "23. Preaching",
+   "rawTitle": "23. Preaching",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:07.629897+00:00",
+   "group": "BIKC",
+   "bikcChapter": 23,
+   "siteRows": [
+    "bss-47"
+   ]
+  },
+  {
+   "id": "bss-48",
+   "sourceId": "903a4ea1-b84e-4cc5-a8a4-75d73e5bfb2f",
+   "batch": "bss",
+   "number": 48,
+   "title": "24. Traveling",
+   "rawTitle": "24. Traveling",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:07.770277+00:00",
+   "group": "BIKC",
+   "bikcChapter": 24,
+   "siteRows": [
+    "bss-48"
+   ]
+  },
+  {
+   "id": "bss-49",
+   "sourceId": "7f13a6da-6b22-4d89-9f96-df47f56715e6",
+   "batch": "bss",
+   "number": 49,
+   "title": "25. Health",
+   "rawTitle": "25. Health\"",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:07.887933+00:00",
+   "group": "BIKC",
+   "bikcChapter": 25,
+   "siteRows": [
+    "bss-49"
+   ]
+  },
+  {
+   "id": "bss-50",
+   "sourceId": "59a68351-67d3-4449-9095-cbc7fa0b9d49",
+   "batch": "bss",
+   "number": 50,
+   "title": "Conversation b/w Sankhachuda and Tulasi Devi in Brahma Vaivarta Purana",
+   "rawTitle": "Conversation b/w Sankhachuda and Tulasi Devi in Brahma Vaivarta Purana",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:08.009904+00:00",
+   "siteRows": [
+    "bss-50"
+   ]
+  },
+  {
+   "id": "bss-51",
+   "sourceId": "84e44fde-c243-480b-bac5-c374b67e126b",
+   "batch": "bss",
+   "number": 51,
+   "title": "The Story of Rsya Srnga",
+   "rawTitle": "The Story of Rsya Srnga",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:08.130825+00:00",
+   "siteRows": [
+    "bss-51"
+   ]
+  },
+  {
+   "id": "bss-52",
+   "sourceId": "6b1abb9c-c890-4ec8-845a-74542003159c",
+   "batch": "bss",
+   "number": 52,
+   "title": "Movement of Living Entity - SB 3.31.32 to 42",
+   "rawTitle": "Movement of Living Entity - SB 3.31.32 to 42",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:08.243409+00:00",
+   "siteRows": [
+    "bss-52"
+   ]
+  },
+  {
+   "id": "bss-53",
+   "sourceId": "388e363a-af74-4e4e-90e3-f69b887682d9",
+   "batch": "bss",
+   "number": 53,
+   "title": "SB 4 canto Ch 25-29 - Puranjan Akhyana + Aila Geet (Canto 11, Ch 26, verse 1-24)",
+   "rawTitle": "SB 4 canto Ch 25-29 - Puranjan Akhyana + Aila Geet (Canto 11, Ch 26, verse 1-24)",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:08.354695+00:00",
+   "siteRows": [
+    "bss-53"
+   ]
+  },
+  {
+   "id": "bss-54",
+   "sourceId": "1b364551-84df-4cac-92cc-b1bb45423792",
+   "batch": "bss",
+   "number": 54,
+   "title": "SB Canto 5, Chapter 13 & 14",
+   "rawTitle": "SB Canto 5, Chapter 13 & 14",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:08.472754+00:00",
+   "siteRows": [
+    "bss-54"
+   ]
+  },
+  {
+   "id": "bss-55",
+   "sourceId": "e8a80812-cca2-4ee8-82d8-0eb80a3a31d3",
+   "batch": "bss",
+   "number": 55,
+   "title": "SB Canto 7, Ch 12, Verse 1-16",
+   "rawTitle": "SB Canto 7, Ch 12, Verse 1-16",
+   "subtitle": "",
+   "status": "existing",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "updated": "2026-01-20T18:27:08.591507+00:00",
+   "siteRows": [
+    "bss-55"
+   ]
+  },
+  {
+   "id": "trd-01",
+   "batch": "trd",
+   "number": 1,
+   "title": "Para-upakara: the purpose of a human birth in Bharata",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "A. Missionary spirit: taking part in Lord Caitanya's mission",
+   "siteRows": []
+  },
+  {
+   "id": "trd-02",
+   "batch": "trd",
+   "number": 2,
+   "title": "\"Yare dekha, tare kaha krsna-upadesa\": every resident a teacher",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "A. Missionary spirit: taking part in Lord Caitanya's mission",
+   "siteRows": []
+  },
+  {
+   "id": "trd-03",
+   "batch": "trd",
+   "number": 3,
+   "title": "Srila Prabhupada's mood of compassion: the Jaladuta prayers",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "A. Missionary spirit: taking part in Lord Caitanya's mission",
+   "siteRows": []
+  },
+  {
+   "id": "trd-04",
+   "batch": "trd",
+   "number": 4,
+   "title": "Srila Bhaktisiddhanta Sarasvati Thakura and the brhad-mrdanga",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "A. Missionary spirit: taking part in Lord Caitanya's mission",
+   "siteRows": []
+  },
+  {
+   "id": "trd-05",
+   "batch": "trd",
+   "number": 5,
+   "title": "Book distribution: the great drum",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "A. Missionary spirit: taking part in Lord Caitanya's mission",
+   "siteRows": []
+  },
+  {
+   "id": "trd-06",
+   "batch": "trd",
+   "number": 6,
+   "title": "Caring for the people you bring: from contact to devotee",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "A. Missionary spirit: taking part in Lord Caitanya's mission",
+   "siteRows": []
+  },
+  {
+   "id": "trd-07",
+   "batch": "trd",
+   "number": 7,
+   "title": "Cooperation: \"your love for me will be shown by how you cooperate\"",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "A. Missionary spirit: taking part in Lord Caitanya's mission",
+   "siteRows": []
+  },
+  {
+   "id": "trd-08",
+   "batch": "trd",
+   "number": 8,
+   "title": "Chanting beyond the count: from namabhasa towards suddha-nama",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "B. Depth of connection with Krishna",
+   "siteRows": []
+  },
+  {
+   "id": "trd-09",
+   "batch": "trd",
+   "number": 9,
+   "title": "When sadhana feels dry: staying fresh in the ashram",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "B. Depth of connection with Krishna",
+   "siteRows": []
+  },
+  {
+   "id": "trd-10",
+   "batch": "trd",
+   "number": 10,
+   "title": "Deity worship as a relationship, not a duty",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "B. Depth of connection with Krishna",
+   "siteRows": []
+  },
+  {
+   "id": "trd-11",
+   "batch": "trd",
+   "number": 11,
+   "title": "Hearing Srimad-Bhagavatam daily: tasting katha",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "B. Depth of connection with Krishna",
+   "siteRows": []
+  },
+  {
+   "id": "trd-12",
+   "batch": "trd",
+   "number": 12,
+   "title": "Siksastaka: the mood of the perfect devotee",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "B. Depth of connection with Krishna",
+   "siteRows": []
+  },
+  {
+   "id": "trd-13",
+   "batch": "trd",
+   "number": 13,
+   "title": "Relishing Krishna's sweetness without imitation",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "B. Depth of connection with Krishna",
+   "siteRows": []
+  },
+  {
+   "id": "trd-14",
+   "batch": "trd",
+   "number": 14,
+   "title": "Dharmah projjhita-kaitavah: religion without cheating",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "C. Non-duplicity",
+   "siteRows": []
+  },
+  {
+   "id": "trd-15",
+   "batch": "trd",
+   "number": 15,
+   "title": "Pratistha: the preacher's subtle desire for name and fame",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "C. Non-duplicity",
+   "siteRows": []
+  },
+  {
+   "id": "trd-16",
+   "batch": "trd",
+   "number": 16,
+   "title": "Honesty with authorities and oneself: no double life",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "C. Non-duplicity",
+   "siteRows": []
+  },
+  {
+   "id": "trd-17",
+   "batch": "trd",
+   "number": 17,
+   "title": "Simplicity and transparency in using the mission's money and things",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "C. Non-duplicity",
+   "siteRows": []
+  },
+  {
+   "id": "trd-18",
+   "batch": "trd",
+   "number": 18,
+   "title": "Leadership as service: \"servant of the servant\"",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "D. Living and serving together",
+   "siteRows": []
+  },
+  {
+   "id": "trd-19",
+   "batch": "trd",
+   "number": 19,
+   "title": "Resolving conflicts between devotees the Vaisnava way",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "D. Living and serving together",
+   "siteRows": []
+  },
+  {
+   "id": "trd-20",
+   "batch": "trd",
+   "number": 20,
+   "title": "Sustainable full-time service: health, rest, study, inspiration",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "D. Living and serving together",
+   "siteRows": []
+  },
+  {
+   "id": "trd-21",
+   "batch": "trd",
+   "number": 21,
+   "title": "The happiness of service: \"ananda-cinmaya-rasa\"",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "E. Happiness in devotional life",
+   "siteRows": []
+  },
+  {
+   "id": "trd-22",
+   "batch": "trd",
+   "number": 22,
+   "title": "Festivals, kirtana and the holy dhama: nourishing the heart",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "E. Happiness in devotional life",
+   "siteRows": []
+  },
+  {
+   "id": "trd-23",
+   "batch": "trd",
+   "number": 23,
+   "title": "Sambandha, abhidheya, prayojana: the map of Gaudiya siddhanta",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "F. Advanced Gaudiya siddhanta",
+   "siteRows": []
+  },
+  {
+   "id": "trd-24",
+   "batch": "trd",
+   "number": 24,
+   "title": "Tattva-sandarbha: why Srimad-Bhagavatam is the final evidence",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "F. Advanced Gaudiya siddhanta",
+   "siteRows": []
+  },
+  {
+   "id": "trd-25",
+   "batch": "trd",
+   "number": 25,
+   "title": "Bhagavat-sandarbha: Brahman, Paramatma, Bhagavan",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "F. Advanced Gaudiya siddhanta",
+   "siteRows": []
+  },
+  {
+   "id": "trd-26",
+   "batch": "trd",
+   "number": 26,
+   "title": "Paramatma-sandarbha: the Lord's energies and the jiva (acintya-bhedabheda)",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "F. Advanced Gaudiya siddhanta",
+   "siteRows": []
+  },
+  {
+   "id": "trd-27",
+   "batch": "trd",
+   "number": 27,
+   "title": "Krsna-sandarbha: Krsnas tu bhagavan svayam",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "F. Advanced Gaudiya siddhanta",
+   "siteRows": []
+  },
+  {
+   "id": "trd-28",
+   "batch": "trd",
+   "number": 28,
+   "title": "Bhakti-sandarbha: pure bhakti as the only means",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "F. Advanced Gaudiya siddhanta",
+   "siteRows": []
+  },
+  {
+   "id": "trd-29",
+   "batch": "trd",
+   "number": 29,
+   "title": "Priti-sandarbha: prema, the highest goal",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "F. Advanced Gaudiya siddhanta",
+   "siteRows": []
+  },
+  {
+   "id": "trd-30",
+   "batch": "trd",
+   "number": 30,
+   "title": "Brhad-bhagavatamrta: Gopa-kumara's search for the highest abode",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "F. Advanced Gaudiya siddhanta",
+   "siteRows": []
+  },
+  {
+   "id": "trd-31",
+   "batch": "trd",
+   "number": 31,
+   "title": "Laghu-bhagavatamrta: Krishna and His avataras",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "F. Advanced Gaudiya siddhanta",
+   "siteRows": []
+  },
+  {
+   "id": "trd-32",
+   "batch": "trd",
+   "number": 32,
+   "title": "Gaura-tattva: why Lord Caitanya appeared, and who His associates are",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "F. Advanced Gaudiya siddhanta",
+   "siteRows": []
+  },
+  {
+   "id": "trd-33",
+   "batch": "trd",
+   "number": 33,
+   "title": "Rasa-tattva as Srila Prabhupada presents it",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "F. Advanced Gaudiya siddhanta",
+   "siteRows": [],
+   "sensitive": true
+  },
+  {
+   "id": "trd-34",
+   "batch": "trd",
+   "number": 34,
+   "title": "Hari-bhakti-vilasa: why the Vaisnava rules matter",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "F. Advanced Gaudiya siddhanta",
+   "siteRows": []
+  },
+  {
+   "id": "trd-35",
+   "batch": "trd",
+   "number": 35,
+   "title": "Mayavada answered from the Sandarbhas and Gita-bhusana",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "F. Advanced Gaudiya siddhanta",
+   "siteRows": []
+  },
+  {
+   "id": "trd-36",
+   "batch": "trd",
+   "number": 36,
+   "title": "Harinama-cintamani: the holy name's glories and the offences, in depth",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "F. Advanced Gaudiya siddhanta",
+   "siteRows": []
+  },
+  {
+   "id": "trd-37",
+   "batch": "trd",
+   "number": 37,
+   "title": "Manah-siksa and Prema-bhakti-candrika: instructions to one's own mind",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "F. Advanced Gaudiya siddhanta",
+   "siteRows": []
+  },
+  {
+   "id": "trd-38",
+   "batch": "trd",
+   "number": 38,
+   "title": "Vaidhi and raganuga bhakti as Srila Prabhupada taught them",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "F. Advanced Gaudiya siddhanta",
+   "siteRows": [],
+   "sensitive": true
+  },
+  {
+   "id": "trd-39",
+   "batch": "trd",
+   "number": 39,
+   "title": "Real and imitation Vaisnavism: the sahajiya danger",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "F. Advanced Gaudiya siddhanta",
+   "siteRows": []
+  },
+  {
+   "id": "trd-40",
+   "batch": "trd",
+   "number": 40,
+   "title": "Vedanta-sutra and Govinda-bhasya: the Gaudiya commentary",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "F. Advanced Gaudiya siddhanta",
+   "siteRows": []
+  },
+  {
+   "id": "trd-41",
+   "batch": "trd",
+   "number": 41,
+   "title": "The five primary rasas: santa, dasya, sakhya, vatsalya, madhurya",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "G. Rasa and the ultimate goal",
+   "siteRows": []
+  },
+  {
+   "id": "trd-42",
+   "batch": "trd",
+   "number": 42,
+   "title": "The seven secondary rasas, and rasabhasa (mixed and incompatible mellows)",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "G. Rasa and the ultimate goal",
+   "siteRows": []
+  },
+  {
+   "id": "trd-43",
+   "batch": "trd",
+   "number": 43,
+   "title": "How rasa arises: sthayi-bhava, vibhava, anubhava, sattvika and vyabhicari bhavas",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "G. Rasa and the ultimate goal",
+   "siteRows": []
+  },
+  {
+   "id": "trd-44",
+   "batch": "trd",
+   "number": 44,
+   "title": "Madhurya rasa and the gopis' love: why it is the highest, and why it is never imitated",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "G. Rasa and the ultimate goal",
+   "siteRows": []
+  },
+  {
+   "id": "trd-45",
+   "batch": "trd",
+   "number": 45,
+   "title": "Srimati Radharani: the Lord's pleasure potency (hladini-sakti)",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "G. Rasa and the ultimate goal",
+   "siteRows": []
+  },
+  {
+   "id": "trd-46",
+   "batch": "trd",
+   "number": 46,
+   "title": "The stages of prema: sneha, mana, pranaya, raga, anuraga, bhava, mahabhava",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "G. Rasa and the ultimate goal",
+   "siteRows": []
+  },
+  {
+   "id": "trd-47",
+   "batch": "trd",
+   "number": 47,
+   "title": "Vipralambha: love in separation, Lord Caitanya's last twelve years",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "G. Rasa and the ultimate goal",
+   "siteRows": []
+  },
+  {
+   "id": "trd-48",
+   "batch": "trd",
+   "number": 48,
+   "title": "The goal: Goloka, the spiritual world and eternal service",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "G. Rasa and the ultimate goal",
+   "siteRows": []
+  },
+  {
+   "id": "trd-49",
+   "batch": "trd",
+   "number": 49,
+   "title": "The weeds beside the creeper: labha, puja, pratistha, kutinati, jiva-himsa",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "H. Blockers for senior devotees",
+   "siteRows": []
+  },
+  {
+   "id": "trd-50",
+   "batch": "trd",
+   "number": 50,
+   "title": "The mad-elephant offence: Vaisnava-aparadha among seniors",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "H. Blockers for senior devotees",
+   "siteRows": []
+  },
+  {
+   "id": "trd-51",
+   "batch": "trd",
+   "number": 51,
+   "title": "The five obstacles in bhajana: laya, viksepa, apratipatti, kasaya, rasasvada",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "H. Blockers for senior devotees",
+   "siteRows": []
+  },
+  {
+   "id": "trd-52",
+   "batch": "trd",
+   "number": 52,
+   "title": "Burnout and lost enthusiasm (utsaha) after many years",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "H. Blockers for senior devotees",
+   "siteRows": []
+  },
+  {
+   "id": "trd-53",
+   "batch": "trd",
+   "number": 53,
+   "title": "Complacency: when service becomes a career or a position",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "H. Blockers for senior devotees",
+   "siteRows": []
+  },
+  {
+   "id": "trd-54",
+   "batch": "trd",
+   "number": 54,
+   "title": "Faith under strain: scandals, disappointing leaders, doubts at a senior stage",
+   "subtitle": "",
+   "status": "library",
+   "kind": "topic",
+   "materials": {
+    "folder": false,
+    "resources": []
+   },
+   "group": "H. Blockers for senior devotees",
+   "siteRows": []
+  }
+ ]
+}
