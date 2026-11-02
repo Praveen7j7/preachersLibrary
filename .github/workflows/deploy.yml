@@ -1,0 +1,25 @@
+# Rebuild and redeploy the Preacher Library whenever a page or the site code changes on main
+# (head, 2 Nov 2026: edit on GitHub, no terminal). Needs two repository secrets:
+#   CLOUDFLARE_API_TOKEN  — a Cloudflare token with "Cloudflare Pages: Edit"
+#   CLOUDFLARE_ACCOUNT_ID — f60a3fb811b84bf911cb2fce3b21c09a (Iyfdelhi.database@gmail.com's account)
+name: Deploy site
+on:
+  push:
+    branches: [main]
+    paths: ['content/**', 'data/**', 'tools/build-site.mjs', 'tools/citations.mjs', 'brand/**', 'functions/**', 'research/verification/**']
+  workflow_dispatch:
+concurrency: { group: deploy, cancel-in-progress: false }
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - name: Build the site
+        run: node tools/build-site.mjs
+      - name: Deploy to Cloudflare Pages
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: npx --yes wrangler@4.149.0 pages deploy dist/site --project-name iyf-preacher-library --branch main --commit-dirty=true

@@ -8843,8 +8843,11 @@
    "url": "https://drive.google.com/file/d/1ikNIx8zSJLSlxxK0Fe-g7t-3KCd7LzL_/view?usp=drive_web",
    "name": "06.Method,Mood and Mellow -RSP.mp3",
    "type": "audio",
-   "status": "audio",
-   "transcribeError": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))"
+   "status": "transcribed",
+   "transcribeError": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))",
+   "file": "research/iyf-materials/iyf-decks/06.Method_Mood and Mellow -RSP.mp3.transcript.txt",
+   "chars": 95314,
+   "detail": "whisper large-v3-turbo, 457s"
   },
   "1Q76dm85N7AZ0ujXqwP1nsmVilLzdDUDU": {
    "url": "https://drive.google.com/file/d/1Q76dm85N7AZ0ujXqwP1nsmVilLzdDUDU/view?usp=drive_web",
@@ -8881,8 +8884,11 @@
    "url": "https://drive.google.com/file/d/18pQLDDBWLrxj-tYnU_5B7vsciavOvYZz/view?usp=drive_web",
    "name": "Preapration for initation H.G. RSP CAMP.mp3",
    "type": "audio",
-   "status": "audio",
-   "transcribeError": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))"
+   "status": "transcribed",
+   "transcribeError": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))",
+   "file": "research/iyf-materials/iyf-decks/Preapration for initation H.G. RSP CAMP.mp3.transcript.txt",
+   "chars": 21610,
+   "detail": "whisper large-v3-turbo, 99s"
   },
   "10W0eG39EtMXa4XuBf6liU4fUullo8GEk": {
    "url": "https://drive.google.com/file/d/10W0eG39EtMXa4XuBf6liU4fUullo8GEk/view?usp=drive_web",

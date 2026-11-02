@@ -347,6 +347,7 @@ body:not(.home) .start .msg{font-size:1.15rem}
 body:not(.home) .jump{display:block;columns:2 14rem;column-gap:2rem}
 body:not(.home) .jump a{display:block;min-height:0;padding:3px 0;background:none;border:0;border-radius:0;font:1rem/1.5 var(--serif);color:var(--acc);text-decoration:underline;text-underline-offset:3px}
 body:not(.home) .jump a small{display:none}
+a.iconbtn{display:inline-flex;align-items:center;text-decoration:none}
 body:not(.home) .tools .iconbtn{border:0;background:none;padding:0 8px 0 0;min-height:32px;font:500 14px var(--sans);color:var(--acc);text-decoration:underline}
 body:not(.home) .chip{font-weight:500}
 body:not(.home) blockquote{font-size:1.04rem;line-height:1.65}
@@ -454,9 +455,13 @@ const tocBar = toc => `<nav class="tocbar" aria-label="Jump to section">${toc.ma
 // Export and share (head, 2 Nov 2026): save as PDF, download as a document (.doc, opens in Word/Google Docs), share, copy link.
 const shareBar = '<button class="iconbtn" type="button" data-share>Share</button><button class="iconbtn" type="button" data-pdf>Save as PDF</button>' +
   '<button class="iconbtn" type="button" data-doc>Download document</button><button class="iconbtn" type="button" data-copy>Copy link</button>';
-const tools = '<div class="tools"><button class="iconbtn" type="button" data-expand>Expand all</button><button class="iconbtn" type="button" data-collapse>Collapse all</button>' +
-  '<button class="iconbtn" type="button" data-slides>Copy for slides</button>' + shareBar + '</div>';
-const shareTools = '<div class="tools">' + shareBar + '</div>';
+// Edit on GitHub (head, 2 Nov 2026): opens the page's source in GitHub's editor; only people with access to the private repo can
+// save, and a save rebuilds and redeploys the site (.github/workflows/deploy.yml).
+const REPO = 'https://github.com/Praveen7j7/preachersLibrary';
+const editBtn = id => `<a class="iconbtn edit" href="${REPO}/edit/main/content/topics/${id}.md" target="_blank" rel="noopener" title="For editors with access to the library's GitHub">Edit this page</a>`;
+const tools = id => '<div class="tools"><button class="iconbtn" type="button" data-expand>Expand all</button><button class="iconbtn" type="button" data-collapse>Collapse all</button>' +
+  '<button class="iconbtn" type="button" data-slides>Copy for slides</button>' + shareBar + editBtn(id) + '</div>';
+const shareTools = id => '<div class="tools">' + shareBar + (id ? editBtn(id) : '') + '</div>';
 
 // The preacher's "Start here" panel: the central message and one tap to each part a preacher reaches for.
 const JUMPS = [['H', 'How to start', 'Opening and first questions'], ['G', 'Lecture plan', 'Timed flow'], ['E', 'Scripture', 'Verified verses'],
@@ -513,11 +518,11 @@ for (const f of files) {
   writeFileSync(join(dir, 'preacher.html'), page(`${title} · Preacher`, shell('preacher', P.toc,
     `<p class="overline">${batchShort[batch] ?? batch} · For the preacher</p><h1>${inline(title)}</h1>${chips}` +
     `<div class="banner">For preachers. Not for distribution to students.</div>${startPanel(central, P.toc, get('duration'))}` +
-    `${tocBar(P.toc)}${tools}${P.html}`), 2, batch));
+    `${tocBar(P.toc)}${tools(id)}${P.html}`), 2, batch));
   if (part2) writeFileSync(join(dir, 'students.html'), page(`${title} · Student handout`, shell('students', S.toc,
     `<p class="overline">${batchShort[batch] ?? batch} · Student handout</p><h1>${inline(title)}</h1>` +
     `<p class="meta">Missed the session? Read the summary first: it covers the whole lecture. The questions below are answered from it.</p>` +
-    `${tocBar(S.toc)}${shareTools}${S.html}`), 2, batch));
+    `${tocBar(S.toc)}${shareTools(id)}${S.html}`), 2, batch));
 
   built[id] = { review, sensitive, students: Boolean(part2) };
   searchIndex.push({ id, b: batchShort[batch] ?? batch, t: title, c: central.slice(0, 400),
@@ -533,7 +538,7 @@ if (existsSync(rdir)) for (const f of readdirSync(rdir).filter(f => f.endsWith('
   const R = sections(md(src.slice(fmr ? fmr[0].length : 0).replace(/^# .*\n+/, '')), true);
   mkdirSync(join(OUT, 'research'), { recursive: true });
   writeFileSync(join(OUT, 'research', f.replace(/\.md$/, '.html')), page(title, header(1) +
-    `<div class="layout has-toc">${tocNav(R.toc)}<main id="main"><p class="overline">Gaudiya Research</p><h1>${inline(title)}</h1>${tocBar(R.toc)}${shareTools}${R.html}</main></div>`, 1));
+    `<div class="layout has-toc">${tocNav(R.toc)}<main id="main"><p class="overline">Gaudiya Research</p><h1>${inline(title)}</h1>${tocBar(R.toc)}${shareTools()}${R.html}</main></div>`, 1));
   research.push({ href: `research/${f.replace(/\.md$/, '.html')}`, title });
 }
 
@@ -624,7 +629,7 @@ const slokaPages = [];
       `${x.iast ? `<div class="sloka"><p class="iast">${esc(x.iast)}</p></div>` : ''}<span>${esc(x.translation || '')}</span></span></li>`).join('') + '</ul></div></details>';
   const js = `<script>const q=document.getElementById('sq');q.addEventListener('input',()=>{const w=q.value.toLowerCase().trim();document.querySelectorAll('li[data-q]').forEach(li=>li.hidden=!!w&&!li.dataset.q.includes(w));if(w)document.querySelectorAll('details.sec').forEach(d=>d.open=true)})</script>`;
   mkdirSync(join(OUT, 'slokas'), { recursive: true });
-  writeFileSync(join(OUT, 'slokas', 'index.html'), page('Slokas', header(1) + `<main id="main" style="margin:0 auto;padding:24px var(--gutter) 96px;max-width:900px"><p class="overline">Slokas</p><h1>Important slokas</h1>${shareTools}${body}</main>` + js, 1));
+  writeFileSync(join(OUT, 'slokas', 'index.html'), page('Slokas', header(1) + `<main id="main" style="margin:0 auto;padding:24px var(--gutter) 96px;max-width:900px"><p class="overline">Slokas</p><h1>Important slokas</h1>${shareTools()}${body}</main>` + js, 1));
   slokaPages.push({ href: 'slokas/index.html', title: `Important slokas (${Object.keys(SLOKAS).length + extra.length} verses, memorisation lists by batch)` });
 }
 

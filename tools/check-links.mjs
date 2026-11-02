@@ -24,6 +24,7 @@ for (const f of files) {
   const html = readFileSync(f, 'utf8');
   for (const m of html.matchAll(/href="([^"]+)"/g)) {
     const u = m[1].replace(/&amp;/g, '&');
+    if (/^https:\/\/github\.com\/Praveen7j7\/preachersLibrary\/edit\//.test(u)) continue;   // editor links: private repo, by design
     if (/^https?:\/\//.test(u)) { if (!ext.has(u)) ext.set(u, new Set()); ext.get(u).add(f.slice(site.length + 1)); continue; }
     if (/^(#|data:|mailto:|tel:|javascript:)/.test(u) || u.includes("'+")) continue; // '+ = built by the page's own script
     const p = resolve(dirname(f), u.split('#')[0].split('?')[0]);
