@@ -37,6 +37,63 @@ SPS later with `research/writer-brief.md` (7 writers × ~6 topics, same prompts)
 **Start each batch in a fresh session** (`/clear` first). Everything needed is in files; a long conversation
 multiplies the cost of every step.
 
+## ▶ RESUME HERE — HANDOVER 2 Nov 2026 (account change). Read this section first; older notes below are history.
+
+**Live:** https://iyf-preacher-library.pages.dev (version 3db0504f). 179 topic pages: VL1 48 · DYS 6 · VL2 9 · VL3 12 · DPS 1
+(dps-15) · BSS 49 (all) · TRD 54 (all). Ślokas page (1,644 verses, cumulative ladder VL1→TRD, NOD chapters, 152 verses from
+other śāstras as Prabhupada quotes them). Features: reading UI (Paper default, Sepia, Night, "Aa"), Share / Save as PDF /
+Download document / Copy for slides / Edit this page. Links: 0 broken (Tele-MANAS = Node cert only). Layout: 0 issues
+(stricter check: circles, partial overlaps, lines).
+**GitHub (private, plain commits, NEVER a Claude co-author line):** Praveen7j7/preachersLibrary (this folder; push from here) ·
+Praveen7j7/sadhanaRecord (scrubbed snapshot only: `node ../impl/github-snapshot-sadhana.mjs`, then push from
+~/Documents/github/sadhanaRecord-public). SSH key is in the macOS Keychain.
+
+### A. Left on pages ALREADY BUILT — ONE visit per page (Fable; read research/packs/<id>.json + <id>.notes.md + research/prepass/<id>.md first)
+Brief for every visit: research/plain-english-pass-brief.md (it carries all rules: 3 plain English + Krishna conscious,
+3b history as it is, 3c spiritual > material, 3d as it is / no softening, 3e questions ladder) + writer-brief "Complete, end to end".
+Fix every FAIL of the gate (research/verification/gate-wave1.json, gate-bss-trd.json) using the prep file. After each page:
+verify-refs → `node tools/gate.mjs <id>` → build → `node tools/layout-check.mjs <id>` → `node tools/source-pack.mjs <id>`.
+1. **Wave 1, 76 pages** (vl1-01…48, dys-01-s1…s4, dys-02, dys-03, vl2-01…09, vl3-01…11 + 13, dps-15): EVERYTHING above.
+   Book refresh on dys-01-s1, vl2-03, vl2-07, vl2-08, vl3-09. ~22 pages still carry softening phrases
+   (research/prepass/strip-log.md "LEFT FOR AGENT"). Gate: 30/76 pass. ~13 runs × 6 pages, 2 at a time.
+2. **BSS, 49 pages:** questions ladder (BSS rung: realization, application, challenges, daily reflection) + gate FAILs.
+   "As it is" is DONE on all 49.
+3. **TRD, 54 pages:** trd-01…22 + 49…54 (written before the ladder rule): questions ladder. All TRD: replace "Requires
+   source review" notes for books now OCR'd (Sandarbhas, Jaiva-dharma, Ujjvala-nilamani, Brhad-/Laghu-bhagavatamrta, HBV,
+   Harinama-cintamani…: research/books/, prep files list candidate passages) + gate FAILs. Gate BSS+TRD: 78/103 pass.
+Estimated 2.5–3.5M tokens for 1–3 together.
+
+### B. Free work (scripts, no agents)
+- **Chapter links for advanced books** (approved): link each cited chapter to the Desire Tree PDF page (#page=N), never host
+  OCR. Linked: Tier A (Kusakratha: Prameya-ratnavali, Tattva-viveka, Manah-siksa; Bhumipati: Brahmana and Vaisnava; Bhanu
+  Swami: Harinama-cintamani Nama-bhajana; Tattva-sandarbha/Gopiparanadhana), Tier C (Madhurya-kadambini GVP, Sri Siksastaka),
+  Tier B labelled "Desire Tree edition (translator not named)": Bhagavat/Paramatma/Krsna/Priti/Bhakti-sandarbha,
+  Ujjvala-nilamani, Laghu-/Brhad-bhagavatamrta, Jaiva-dharma file 1. NOT linked: Jaiva-dharma file 2, HBV "selected verses".
+  Chapter→page from the OCR page markers (research/book-vetting.json has a start); NOT BUILT YET.
+- **Fuller "other śāstras" list:** download more of Prabhupada's purports to .cache/vedabase, re-run `node tools/quoted-sastras.mjs`.
+- **Auto-deploy from GitHub:** .github/workflows/deploy.yml is pushed; needs repo secrets CLOUDFLARE_API_TOKEN (Pages: Edit)
+  and CLOUDFLARE_ACCOUNT_ID = f60a3fb811b84bf911cb2fce3b21c09a. Head could not sign in to dash.cloudflare.com (try normal
+  Chrome, Google sign-in, or password reset). Fallback (Mac on): a launchd job pulls GitHub every 10 min and deploys.
+
+### C. NEXT BIG: SPS (41) + DPS (56) together
+Starter packs ready: research/packs/<id>.starter.json (IYF files for 45, related written pages for 26, stories).
+Writers: Fable, ~7 related topics each, 2 at a time, brief research/writer-brief.md (all rules incl. layout check, source pack
+first, "Further sources" list in <id>.notes.md — word it as a content task: a "save everything you read" instruction tripped
+Fable's safety filter on 2 Nov). Sensitive: sps-19, sps-33, dps-04, dps-43 (+ any on celibacy, rasa, controversy, mental health).
+DPS pages that repeat an SPS topic build on the SPS page. Then courses (research/courses.md), then P01–P17 already folded into A.
+
+### D. Waiting on the head
+research/head-review-list.md §5 items 2–12, §6 items 1–10 (TRD); crisis lines on pages other than bss-03 (keep/remove);
+vl1-37 NOI 4, vl1-39 NOI 2 + sensitive flag, vl1-43 SB 10.88.8 / CC Adi 10.84, helplines 988 / 116 123; VL1 memorisation
+size (79 now: keep or a core set?); Govinda-bhasya complete edition (fetch?); book-notes section (option A/B/C) and the offline
+book system (Phase Zero report: 6 decisions); review of sensitive pages before wide publication; Hindi after English proofreading.
+
+### E. How things are done (unchanged rules)
+Deploy ONLY on the head's "deploy": build → check-links (frozen copy) → `npx wrangler@4.149.0 pages deploy dist/site
+--project-name iyf-preacher-library --branch main --commit-dirty=true`. Fable for writing and judgement; scripts for mechanics;
+Sonnet only for script-checked narrow edits after a 2-page pilot. Fresh main session per batch. Delete any frozen copy after a
+check (a 25 GB copy filled the disk on 28 Oct).
+
 ## RESUME HERE (30 Oct ~03:45, session near its limit). Start a FRESH session; everything needed is in files.
 
 **Head's rulings of 30 Oct (all in CLAUDE.md / research/writer-brief.md, apply to every batch):** history as it is (no add-on,
