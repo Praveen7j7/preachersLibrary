@@ -400,19 +400,27 @@ cure. *Takeaway:* the test of 8.15 is passed by continuing to serve honestly, no
 
 ## N. Visual teaching aid
 
-<svg viewBox="0 0 680 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The spiritual sky as a lotus: Vaikuntha petals, Krsnaloka at the whorl with Goloka at its top; absences, features, activity and means">
+<svg viewBox="0 0 680 230" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The spiritual sky as a lotus: Vaikuntha petals, Krsnaloka at the whorl with Goloka at its top; absences, features, activity and means">
   <style>.t{font:12px sans-serif;fill:#333}.b{font:12px sans-serif;fill:#333;font-weight:bold}.s{fill:#f4efe6;stroke:#8a6d3b;stroke-width:1.5}.k{fill:#fff3d6;stroke:#b8860b;stroke-width:2}.g{fill:#eef6e8;stroke:#4f7a3a;stroke-width:1.5}</style>
-  <ellipse class="s" cx="200" cy="130" rx="170" ry="95"/><text class="t" x="60" y="60">paravyoma, the spiritual sky (CC Adi 5.14): petals = Vaikunthas (CC Madhya 21.7)</text>
-  <ellipse class="k" cx="200" cy="140" rx="95" ry="52"/><text class="b" x="130" y="130">Krsnaloka, the whorl</text><text class="t" x="118" y="148">Dvaraka, Mathura, Gokula (5.16)</text><text class="b" x="128" y="168">Goloka Vrindavana (5.17)</text>
-  <text class="t" x="20" y="250">Absent: modes, time, maya (SB 2.9.10); sun, moon (BG 15.6); return (BG 8.15-16).</text>
-  <text class="t" x="20" y="270">Present: touchstone, desire trees, surabhi cows, song and dance, the flute (Bs 5.29, 5.56).</text>
-  <text class="t" x="20" y="290">Activity: service without sense gratification, in one's rasa, in the siddha-deha (SB 3.15.14; CC Madhya 8.229).</text>
-  <text class="t" x="20" y="310">Means: "only by surrender and by no other means" (BG 15.6 purport); the promise (BG 18.65).</text>
-  <rect class="g" x="400" y="60" width="260" height="150"/><text class="b" x="410" y="82">Goloka and the earth</text>
+  <ellipse class="s" cx="200" cy="130" rx="170" ry="95"/>  <ellipse class="k" cx="200" cy="140" rx="95" ry="52"/><text class="b" x="130" y="130">Krsnaloka, the whorl</text><text class="t" x="118" y="148">Dvaraka, Mathura, Gokula (5.16)</text><text class="b" x="128" y="168">Goloka Vrindavana (5.17)</text>
+          <rect class="g" x="400" y="60" width="260" height="150"/><text class="b" x="410" y="82">Goloka and the earth</text>
   <text class="t" x="410" y="104">Gokula is manifested here, identical (CC Adi 5.19).</text><text class="t" x="410" y="124">"Material eyes see it as an ordinary place" (5.20).</text><text class="t" x="410" y="144">Seen with the eyes of love (5.21).</text><text class="t" x="410" y="164">Vrindavana, 90 miles from Delhi, its replica</text><text class="t" x="410" y="180">(BG 8.21 purport).</text><text class="t" x="410" y="200">Below Goloka: Hari-, Mahesa-, Devi-dhama (Bs 5.43).</text>
-  <text class="b" x="400" y="240">Test: "They only want Kṛṣṇa and Kṛṣṇa's association,</text><text class="b" x="400" y="258">and nothing else" (BG 8.15 purport).</text>
-  <text class="t" x="400" y="330">Gradation of realms: trd-30.</text>
-</svg>
+    </svg>
+
+paravyoma, the spiritual sky (CC Adi 5.14): petals = Vaikunthas (CC Madhya 21.7)
+
+Absent: modes, time, maya (SB 2.9.10); sun, moon (BG 15.6); return (BG 8.15-16).
+
+Present: touchstone, desire trees, surabhi cows, song and dance, the flute (Bs 5.29, 5.56).
+
+Activity: service without sense gratification, in one's rasa, in the siddha-deha (SB 3.15.14; CC Madhya 8.229).
+
+Means: "only by surrender and by no other means" (BG 15.6 purport); the promise (BG 18.65).
+
+**Test: "They only want Kṛṣṇa and Kṛṣṇa's association, and nothing else" (BG 8.15 purport).**
+
+Gradation of realms: trd-30.
+
 
 *Caption:* the spiritual sky as Lord Caitanya described it to Sanatana Gosvami, with what is absent, present and done there, and the sentence a resident examines himself by.
 

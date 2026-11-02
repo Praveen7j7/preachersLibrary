@@ -9038,15 +9038,21 @@
    "url": "https://drive.google.com/file/d/1xjTu0f8wVZE69UswNeI0M4qo0VogHa8i/view?usp=drive_web",
    "name": "BG session 5.mp3",
    "type": "audio",
-   "status": "audio",
-   "transcribeError": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))"
+   "status": "transcribed",
+   "transcribeError": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))",
+   "file": "research/iyf-materials/iyf-decks/BG session 5.mp3.transcript.txt",
+   "chars": 92647,
+   "detail": "whisper large-v3-turbo, 331s"
   },
   "13rHbysw-yXHET8QCgMyA3uWOQvGXdurf": {
    "url": "https://drive.google.com/file/d/13rHbysw-yXHET8QCgMyA3uWOQvGXdurf/view?usp=drive_web",
    "name": "BG session 6.mp3",
    "type": "audio",
-   "status": "audio",
-   "transcribeError": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))"
+   "status": "transcribed",
+   "transcribeError": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))",
+   "file": "research/iyf-materials/iyf-decks/BG session 6.mp3.transcript.txt",
+   "chars": 42330,
+   "detail": "whisper large-v3-turbo, 230s"
   },
   "1oh76BcxSbVD1g1L_DJNmY0zeTre5v60x": {
    "url": "https://drive.google.com/file/d/1oh76BcxSbVD1g1L_DJNmY0zeTre5v60x/view?usp=drive_web",

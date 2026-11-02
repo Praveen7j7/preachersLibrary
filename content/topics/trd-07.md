@@ -240,10 +240,14 @@ which of the six exchanges it uses. Report back in one sentence.
     <text x="260" y="110">accounts</text><text x="380" y="110">Deity service</text>
     <text x="320" y="195" fill="#3b6d3b">root: the Lord's satisfaction, the purpose all serve (SB 1.1.4 purport)</text>
   </g>
-  <text x="90" y="150" font-size="11" font-family="sans-serif" fill="#555">"By pouring water on the root…</text>
-  <text x="90" y="165" font-size="11" font-family="sans-serif" fill="#555">all the parts of the tree are</text>
-  <text x="90" y="180" font-size="11" font-family="sans-serif" fill="#555">automatically nourished."</text>
-</svg>
+      </svg>
+
+"By pouring water on the root…
+
+all the parts of the tree are
+
+automatically nourished."
+
 
 *Caption: Cooperation between branches comes from serving the root (SB 1.1.4 purport).*
 

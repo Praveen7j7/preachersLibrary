@@ -338,6 +338,8 @@ body:not(.home) details.sec>summary{padding:1.1em 0 .3em;min-height:0;gap:12px}
 body:not(.home) details.sec>summary h2{font:600 1.45rem/1.25 var(--serif)}
 body:not(.home) details.sec>summary .letter{background:none;width:auto;height:auto;font:600 1rem var(--serif);color:var(--batch)}
 body:not(.home) details.sec>.body{padding:0;border:0}
+/* Diagram text gets a thin outline in the page colour, so a line or arrow passing behind a label never cuts through it. */
+main svg text{paint-order:stroke;stroke:rgba(255,253,246,.92);stroke-width:3px;stroke-linejoin:round}
 /* Slokas page (head, 2 Nov): each level and each book in its own bordered panel, easy to trace. */
 body:not(.home) details.sec.panel{border:1px solid var(--line-strong);border-radius:var(--r-md);background:var(--card);margin:14px 0;padding:0 18px}
 body:not(.home) details.sec.panel::before{display:none}body:not(.home) details.sec.panel>summary{padding:14px 0}body:not(.home) details.sec.panel>.body{padding:0 0 14px;border-top:1px solid var(--line)}

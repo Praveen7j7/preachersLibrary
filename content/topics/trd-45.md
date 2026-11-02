@@ -388,12 +388,14 @@ the remedy is not acceptance but redirection by hearing, chanting and service. *
   <rect class="s" x="480" y="190" width="180" height="26"/><text class="t" x="488" y="208">prema, love of God</text>
   <rect class="s" x="480" y="222" width="180" height="26"/><text class="t" x="488" y="240">bhava, its essence</text>
   <rect class="k" x="480" y="254" width="180" height="26"/><text class="b" x="488" y="272">mahabhava = SRI RADHA (4.69)</text>
-    <text class="t" x="20" y="218">fire and heat, musk and scent (4.97); Lord Caitanya's acintya-bhedabheda (4.56 purport).</text>
-  <text class="t" x="20" y="244">Why we approach Krishna through Her: "the greatest servitor" (4.87 purport);</text>
+      <text class="t" x="20" y="244">Why we approach Krishna through Her: "the greatest servitor" (4.87 purport);</text>
   <text class="t" x="20" y="262">"the medium transmitting the living entities' service" (4.56 purport).</text>
   <text class="t" x="20" y="290">Same potency adulterated by the external energy: madness after matter (4.68 purport).</text>
   <text class="t" x="20" y="312">Chapter's end: Krishna appears as Sri Caitanya "with the mood and complexion of Śrī Rādhā" (4.99-100).</text>
 </svg>
+
+fire and heat, musk and scent (4.97); Lord Caitanya's acintya-bhedabheda (4.56 purport).
+
 
 One and two: "Rādhā and Kṛṣṇa are one and the same, but They have assumed two bodies" (4.56);
 

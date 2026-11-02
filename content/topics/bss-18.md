@@ -193,7 +193,7 @@ Illustration (preacher's): a uniform tells others a role; a servant of Krsna is 
   <circle cx="320" cy="78" r="46" fill="#f6d9c0" stroke="#c9852b"/>
   <circle cx="320" cy="78" r="24" fill="#d7ecd9" stroke="#2f7a4b"/>
   <text x="320" y="82" font-size="10" text-anchor="middle">Servant</text>
-  <text x="320" y="46" font-size="10" text-anchor="middle">Brahmacari</text>
+  <text x="320" y="50" font-size="10" text-anchor="middle">Brahmacari</text>
   <text x="320" y="24" font-size="10" text-anchor="middle">Varna, nation, family</text>
   <text x="470" y="82" font-size="11">Soul: eternal servant (CC Madhya 20.108)</text>
 </svg>
