@@ -633,6 +633,20 @@ const slokaPages = [];
     nodIds.map(c => `<li data-q="${esc((c + ' ' + NOD[c].name).toLowerCase())}"><span class="t"><b><a href="${esc(NOD[c].url)}">${esc(c)}</a></b> · ${esc(NOD[c].name)}` +
       (used[c] ? `<br><span class="meta">Used on: ${[...used[c]].sort().map(i => `<a href="../topics/${i}/preacher.html">${i}</a>`).join(', ')}</span>` : '') + '</span></li>').join('') +
     '</ul></div></details>';
+  // Verses from other sastras as Srila Prabhupada quotes them in his purports (data/quoted-sastras.json, tools/quoted-sastras.mjs).
+  const QS = existsSync(join(ROOT, 'data/quoted-sastras.json')) ? JSON.parse(readFileSync(join(ROOT, 'data/quoted-sastras.json'), 'utf8')) : [];
+  if (QS.length) {
+    body += '<h2 class="part">Mahābhārata, Rāmāyaṇa, Purāṇas and other śāstras, as Srila Prabhupada quotes them</h2>' +
+      '<p class="meta">Each verse is taken from Srila Prabhupada\'s purport that quotes it, with his translation where he gives one.</p>';
+    for (const g of ['Mahābhārata', 'Rāmāyaṇa', 'Purāṇas', 'Upaniṣads', 'Pañcarātra', 'Manu-saṁhitā', 'Cāṇakya Paṇḍita', 'Other śāstras']) {
+      const xs = QS.filter(e => e.group === g); if (!xs.length) continue;
+      body += `<details class="sec panel"><summary><h2>${g} (${xs.length})</h2></summary><div class="body"><ul class="topics">` +
+        xs.map(e => `<li data-q="${esc((e.source + ' ' + e.ref + ' ' + e.sanskrit + ' ' + e.translation).toLowerCase())}"><span class="t"><b>${esc(e.source)}${e.ref ? ' ' + esc(e.ref) : ''}</b>` +
+          `<div class="sloka"><p class="iast">${esc(e.sanskrit).replace(/\n/g, '<br>')}</p></div>${e.translation ? `<span>${esc(e.translation)}</span>` : ''}` +
+          `<br><span class="meta">Quoted in: ${e.quotedIn.map(q => `<a href="${esc(q.url)}">${esc(q.cite)} purport</a>`).join(', ')}</span></span></li>`).join('') +
+        '</ul></div></details>';
+    }
+  }
   if (extra.length) body += `<details class="sec panel"><summary><h2>Upanisads and other sastras, as Srila Prabhupada quotes them (${extra.length})</h2></summary><div class="body"><ul class="topics">` +
     extra.map(x => `<li data-q="${esc((x.cite + ' ' + (x.iast || '') + ' ' + (x.translation || '')).toLowerCase())}"><span class="t"><b>${x.source_url ? `<a href="${esc(x.source_url)}">${esc(x.cite)}</a>` : esc(x.cite)}</b>` +
       `${x.iast ? `<div class="sloka"><p class="iast">${esc(x.iast)}</p></div>` : ''}<span>${esc(x.translation || '')}</span></span></li>`).join('') + '</ul></div></details>';
