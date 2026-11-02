@@ -4,7 +4,8 @@
 below the diagram, never as loose lines inside it. Before reporting, run `node tools/build-site.mjs` then
 `node tools/layout-check.mjs <id>` and fix every issue it lists.
 
-**Source pack first (head, 2 Nov 2026):** before reading any source, open research/packs/<id>.json and <id>.notes.md for your
+**Source pack first (head, 2 Nov 2026):** before reading any source, open research/packs/<id>.json (or, for a topic not yet
+written, research/packs/<id>.starter.json: IYF files, related written pages with their verses and quotes, stories) and <id>.notes.md for your
 topic (and for any page you link to). Fetch only what is not there. In research/packs/<id>.notes.md keep a "Further
 sources" list: verses, purport passages, book passages, letters and stories relevant to the topic that the page does not
 use, each with its exact location and the level or deeper session it would serve, so the next writer need not search again.

@@ -53,6 +53,13 @@ pages (keep/remove?) and head-review-list §5 items 2–12.
    now 0 issues (label fit improved; 10 loose caption lines moved out of diagrams; 8 diagrams re-placed by hand). Pre-pass
    (tools/prepass.py): stock phrases stripped (log research/prepass/strip-log.md); prep files research/prepass/<id>.md.
    Pending deploy: layout fixes, strip edits, trd-46 diagram, "Prabhupada's English" rewording.
+   **Advanced-book chapter links (head, 2 Nov):** link each cited chapter to the Desire Tree PDF page (#page=N), never host our
+   OCR text. Approved: Tier A (Kusakratha: Prameya-ratnavali, Tattva-viveka, Manah-siksa; Bhumipati: Brahmana and Vaisnava; Bhanu
+   Swami: Harinama-cintamani Nama-bhajana; Tattva-sandarbha) and Tier C (link, incl. Madhurya-kadambini GVP and Sri Siksastaka).
+   Tier B (head, 2 Nov): title pages carry no credits (Desire Tree Gaudiya_Books start at Text 1). LINK, labelled "Desire Tree
+   edition (translator not named)": Bhagavat, Paramatma, Krsna, Priti, Bhakti-sandarbha; Ujjvala-nilamani; Laghu- and
+   Brhad-bhagavatamrta; Jaiva-dharma file 1. Tattva-sandarbha → Tier A (Gopiparanadhana). NO LINK: Jaiva-dharma file 2
+   (different, rough translation), Hari-bhakti-vilasa "selected verses" (a selection, compiler not named).
    **WAVE 1 = ONE combined pass (head, 2 Nov):** the 76 wave-1 pages (VL1 48, DYS 6, VL2 9, VL3 12, dps-15) get ONE visit
    per page covering everything: plain English + Krishna conscious (P05–P17 brief) + as it is (≈22 pages with softening
    phrases) + history as it is + questions ladder + complete end to end + spiritual > material + book refresh (dys-01-s1,

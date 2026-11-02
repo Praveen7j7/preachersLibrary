@@ -8678,8 +8678,11 @@
    "url": "https://drive.google.com/file/d/1JNHsrcYweaAgocpnooNTWZkh60b6--ju/view?usp=drive_web",
    "name": "RSP_Ashraya camp_How to read SP books_14-12-06.mp3",
    "type": "audio",
-   "status": "audio",
-   "transcribeError": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))"
+   "status": "transcribed",
+   "transcribeError": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))",
+   "file": "research/iyf-materials/iyf-decks/RSP_Ashraya camp_How to read SP books_14-12-06.mp3.transcript.txt",
+   "chars": 74922,
+   "detail": "whisper large-v3-turbo, 346s"
   },
   "1WNwrhNftGpM0ulOXSpo7NqlM1jZtMXWo": {
    "url": "https://drive.google.com/file/d/1WNwrhNftGpM0ulOXSpo7NqlM1jZtMXWo/view?usp=drive_web",
@@ -8830,8 +8833,11 @@
    "url": "https://drive.google.com/file/d/13FMONSgABTZBebZMwI8LYcdSbVqy2uTb/view?usp=drive_web",
    "name": "03.RSP on Initiation.mp3",
    "type": "audio",
-   "status": "audio",
-   "transcribeError": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))"
+   "status": "transcribed",
+   "transcribeError": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))",
+   "file": "research/iyf-materials/iyf-decks/03.RSP on Initiation.mp3.transcript.txt",
+   "chars": 21031,
+   "detail": "whisper large-v3-turbo, 82s"
   },
   "1ikNIx8zSJLSlxxK0Fe-g7t-3KCd7LzL_": {
    "url": "https://drive.google.com/file/d/1ikNIx8zSJLSlxxK0Fe-g7t-3KCd7LzL_/view?usp=drive_web",
