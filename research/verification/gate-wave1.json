@@ -1,10 +1,8 @@
 {
  "dps-15": {
-  "pass": false,
+  "pass": true,
   "lines": 669,
-  "fail": [
-   "line 255: softening \"not a verdict\""
-  ],
+  "fail": [],
   "note": [
    "669 lines (guide 400–480): trim only repetition or padding",
    "line 123: quote not found in source: \", and links it to CC Madhya 23.14–15: \"",
@@ -85,6 +83,7 @@
   "pass": false,
   "lines": 307,
   "fail": [
+   "line 102: softening \"not a criticism\"",
    "line 27: quote not found in source: \"Vedic wisdom, the privilege of humanity\""
   ],
   "note": [
@@ -338,9 +337,7 @@
   "pass": false,
   "lines": 461,
   "fail": [
-   "line 149: softening \"not a verdict\"",
    "line 246: softening \"not a verdict\"",
-   "line 270: softening \"not a verdict\"",
    "line 337: quote not found in source: \"Power of habits and tips for overcoming bad habits\""
   ],
   "note": [
@@ -368,11 +365,9 @@
   ]
  },
  "vl1-05": {
-  "pass": false,
+  "pass": true,
   "lines": 427,
-  "fail": [
-   "line 124: softening \"not an insult\""
-  ],
+  "fail": [],
   "note": [
    "427 lines (guide 400–480): trim only repetition or padding",
    "line 53: quote not found in source: \"Why should I even explore this?\"",
@@ -404,9 +399,11 @@
   ]
  },
  "vl1-06": {
-  "pass": true,
+  "pass": false,
   "lines": 547,
-  "fail": [],
+  "fail": [
+   "line 164: softening \"not a judgement\""
+  ],
   "note": [
    "547 lines (guide 400–480): trim only repetition or padding",
    "line 69: quote not found in source: \"Karma: what it explains and what it does not\"",
@@ -1155,13 +1152,12 @@
  },
  "vl1-29": {
   "pass": false,
-  "lines": 591,
+  "lines": 593,
   "fail": [
-   "line 100: softening \"not a verdict\"",
    "line 38: quote not found in source: \" (six dimensions of wellness; most slides are images) and HG Sundar Go…\""
   ],
   "note": [
-   "591 lines (guide 400–480): trim only repetition or padding",
+   "593 lines (guide 400–480): trim only repetition or padding",
    "line 92: quote not found in source: \"if we will not do these three things our conviction will not last\"",
    "line 94: quote not found in source: \"becoming a good animal, craftsman, friend and saint\"",
    "line 95: quote not found in source: \"Bookish knowledge without realisation is useless\"",
@@ -1178,18 +1174,16 @@
    "line 364: quote not found in source: \"Should I give up studies to focus on spiritual life?\"",
    "line 367: quote not found in source: \"What are the 'constitutional duties' in the fourth bucket?\"",
    "line 423: quote not found in source: \"max-width:100%;font-family:system-ui,sans-serif\"",
-   "line 446: quote not found in source: \"Sleep regularity is a stronger predictor of mortality risk than sleep …\"",
-   "line 447: quote not found in source: \"The importance of sleep regularity: a consensus statement of the Natio…\"",
-   "line 454: quote not found in source: \"Topic-5 Lifestyle Management from Bhagavad Gita\"",
-   "line 590: quote not found in source: \"Topic-5 Lifestyle Management from Bhagavad Gita\""
+   "line 448: quote not found in source: \"Sleep regularity is a stronger predictor of mortality risk than sleep …\"",
+   "line 449: quote not found in source: \"The importance of sleep regularity: a consensus statement of the Natio…\"",
+   "line 456: quote not found in source: \"Topic-5 Lifestyle Management from Bhagavad Gita\"",
+   "line 592: quote not found in source: \"Topic-5 Lifestyle Management from Bhagavad Gita\""
   ]
  },
  "vl1-30": {
-  "pass": false,
+  "pass": true,
   "lines": 638,
-  "fail": [
-   "line 287: softening \"not a verdict\""
-  ],
+  "fail": [],
   "note": [
    "638 lines (guide 400–480): trim only repetition or padding",
    "line 48: quote not found in source: \" deck (a binary file; text not recoverable) and the \"",
@@ -1219,6 +1213,7 @@
   "pass": false,
   "lines": 577,
   "fail": [
+   "line 281: softening \"not a criticism\"",
    "line 547: softening \"not a verdict\"",
    "line 265: quote not found in source: \"a healthy life, for inquiry\"",
    "line 515: quote not found in source: \"so much is mine, and it will increase\""
@@ -1415,10 +1410,10 @@
  },
  "vl1-36": {
   "pass": true,
-  "lines": 625,
+  "lines": 627,
   "fail": [],
   "note": [
-   "625 lines (guide 400–480): trim only repetition or padding",
+   "627 lines (guide 400–480): trim only repetition or padding",
    "line 90: quote not found in source: \"Someone ate a Bat sitting in China\"",
    "line 91: quote not found in source: \"Many SINFUL people also become rich… To uplift them and then make them…\"",
    "line 92: quote not found in source: \"All are useless because they cannot dissolve your karma\"",
@@ -1439,20 +1434,20 @@
    "line 372: quote not found in source: \"Isn't 'rare human life' just a way to scare me into religion?\"",
    "line 413: quote not found in source: \"which option is poison-first?\"",
    "line 424: quote not found in source: \"max-width:100%;font-family:system-ui,sans-serif\"",
-   "line 462: quote not found in source: \"Looking for the right thing in the wrong place\"",
-   "line 498: quote not found in source: \"BBT translation, completed by Srila Prabhupada's disciples\"",
-   "line 590: quote not found in source: \"ought I? should I fear this? will it bind or free me?\""
+   "line 464: quote not found in source: \"Looking for the right thing in the wrong place\"",
+   "line 500: quote not found in source: \"BBT translation, completed by Srila Prabhupada's disciples\"",
+   "line 592: quote not found in source: \"ought I? should I fear this? will it bind or free me?\""
   ]
  },
  "vl1-37": {
   "pass": false,
-  "lines": 642,
+  "lines": 644,
   "fail": [
    "line 38: quote not found in source: \") sets two columns side by side: Google (ephemeral, in flux, public, i…\"",
    "line 40: quote not found in source: \"The Purpose of Knowledge is not just Information, but Transformation\""
   ],
   "note": [
-   "642 lines (guide 400–480): trim only repetition or padding",
+   "644 lines (guide 400–480): trim only repetition or padding",
    "line 88: quote not found in source: \"The Purpose of Knowledge is not just Information, but Transformation\"",
    "line 89: quote not found in source: \"can tell us how things are, not how they should be\"",
    "line 90: quote not found in source: \"I made one great mistake in my life… when I signed the letter to Presi…\"",
@@ -1481,8 +1476,8 @@
    "line 383: quote not found in source: \"I don't have a grandmother in the next room. Whom do I ask?\"",
    "line 387: quote not found in source: \"Isn't 'revealing your mind in confidence' risky online and offline?\"",
    "line 436: quote not found in source: \"max-width:100%;font-family:system-ui,sans-serif\"",
-   "line 465: quote not found in source: \"Google Effects on Memory: Cognitive Consequences of Having Information…\"",
-   "line 472: quote not found in source: \"Expanding the conception of god part 2\""
+   "line 467: quote not found in source: \"Google Effects on Memory: Cognitive Consequences of Having Information…\"",
+   "line 474: quote not found in source: \"Expanding the conception of god part 2\""
   ]
  },
  "vl1-38": {
@@ -1551,13 +1546,13 @@
  },
  "vl1-40": {
   "pass": false,
-  "lines": 602,
+  "lines": 604,
   "fail": [
    "line 37: quote not found in source: \"Curing the Cancer of Mind\"",
    "line 41: quote not found in source: \"bag of chemicals worth Rs 210\""
   ],
   "note": [
-   "602 lines (guide 400–480): trim only repetition or padding",
+   "604 lines (guide 400–480): trim only repetition or padding",
    "line 214: quote not found in source: \"If I were spiritual I'd never have these thoughts.\"",
    "line 326: quote not found in source: \"My mind is the problem. Isn't it my enemy?\"",
    "line 329: quote not found in source: \"I've tried controlling my thoughts. It doesn't work.\"",
@@ -1566,17 +1561,17 @@
    "line 340: quote not found in source: \"My mind wanders every time I try to sit still. Am I failing?\"",
    "line 343: quote not found in source: \"Why does the Gita call these 'austerities'? Sounds hard.\"",
    "line 395: quote not found in source: \"max-width:100%;font-family:system-ui,sans-serif\"",
-   "line 439: quote not found in source: \") are unsourced: leave them out. Supporting (structure only): Chaitany…\""
+   "line 441: quote not found in source: \") are unsourced: leave them out. Supporting (structure only): Chaitany…\""
   ]
  },
  "vl1-41": {
   "pass": false,
-  "lines": 554,
+  "lines": 556,
   "fail": [
    "line 308: softening \"not a verdict\""
   ],
   "note": [
-   "554 lines (guide 400–480): trim only repetition or padding",
+   "556 lines (guide 400–480): trim only repetition or padding",
    "line 74: quote not found in source: \"why did Krsna allow the war?\"",
    "line 109: quote not found in source: \". The purport defines the *krpana* (miser) as one \"",
    "line 111: quote not found in source: \"someone who knows the game\"",
@@ -1594,10 +1589,10 @@
    "line 307: quote not found in source: \"I keep losing. Does that mean I'm doing life wrong?\"",
    "line 329: quote not found in source: \"the same shot at match point\"",
    "line 359: quote not found in source: \"max-width:100%;font-family:system-ui,sans-serif\"",
-   "line 393: quote not found in source: \"why did Krsna allow the war?\"",
-   "line 422: quote not found in source: \"PARTHA: the formula of success\"",
-   "line 460: quote not found in source: \"playing for what is right\"",
-   "line 551: quote not found in source: \"PARTHA: the formula of success\""
+   "line 395: quote not found in source: \"why did Krsna allow the war?\"",
+   "line 424: quote not found in source: \"PARTHA: the formula of success\"",
+   "line 462: quote not found in source: \"playing for what is right\"",
+   "line 553: quote not found in source: \"PARTHA: the formula of success\""
   ]
  },
  "vl1-42": {
@@ -2301,8 +2296,7 @@
   "pass": false,
   "lines": 662,
   "fail": [
-   "line 238: softening \"no shame language\"",
-   "line 555: softening \"no shame language\""
+   "line 238: softening \"no shame language\""
   ],
   "note": [
    "662 lines (guide 450–560): trim only repetition or padding",

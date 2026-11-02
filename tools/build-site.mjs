@@ -624,6 +624,15 @@ const slokaPages = [];
     '<h2 class="part">All verses, by book</h2>' + ORDER.filter(g => groups[g]).map(g =>
       `<details class="sec panel"><summary><h2>${g} (${groups[g].length})</h2></summary><div class="body"><ul class="topics">` +
       groups[g].sort(([a], [b]) => a.localeCompare(b, 'en', { numeric: true })).map(([c, v]) => card(c, v)).join('') + '</ul></div></details>').join('');
+  // The Nectar of Devotion is cited by chapter (a summary study of Bhakti-rasamrta-sindhu, no numbered verses): list the
+  // chapters our pages use, with their names (data/nod-chapters.json, built from the verified vedabase pages).
+  const NOD = existsSync(join(ROOT, 'data/nod-chapters.json')) ? JSON.parse(readFileSync(join(ROOT, 'data/nod-chapters.json'), 'utf8')) : {};
+  const nodIds = Object.keys(NOD).sort((a, b) => a.localeCompare(b, 'en', { numeric: true }));
+  if (nodIds.length) body += `<details class="sec panel"><summary><h2>The Nectar of Devotion, by chapter (${nodIds.length})</h2></summary><div class="body">` +
+    '<p class="meta">Srila Prabhupada\'s summary study of Bhakti-rasāmṛta-sindhu, cited by chapter.</p><ul class="topics">' +
+    nodIds.map(c => `<li data-q="${esc((c + ' ' + NOD[c].name).toLowerCase())}"><span class="t"><b><a href="${esc(NOD[c].url)}">${esc(c)}</a></b> · ${esc(NOD[c].name)}` +
+      (used[c] ? `<br><span class="meta">Used on: ${[...used[c]].sort().map(i => `<a href="../topics/${i}/preacher.html">${i}</a>`).join(', ')}</span>` : '') + '</span></li>').join('') +
+    '</ul></div></details>';
   if (extra.length) body += `<details class="sec panel"><summary><h2>Upanisads and other sastras, as Srila Prabhupada quotes them (${extra.length})</h2></summary><div class="body"><ul class="topics">` +
     extra.map(x => `<li data-q="${esc((x.cite + ' ' + (x.iast || '') + ' ' + (x.translation || '')).toLowerCase())}"><span class="t"><b>${x.source_url ? `<a href="${esc(x.source_url)}">${esc(x.cite)}</a>` : esc(x.cite)}</b>` +
       `${x.iast ? `<div class="sloka"><p class="iast">${esc(x.iast)}</p></div>` : ''}<span>${esc(x.translation || '')}</span></span></li>`).join('') + '</ul></div></details>';

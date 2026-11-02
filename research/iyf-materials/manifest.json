@@ -8894,29 +8894,41 @@
    "url": "https://drive.google.com/file/d/10W0eG39EtMXa4XuBf6liU4fUullo8GEk/view?usp=drive_web",
    "name": "RSP_CCM_Art of taking shelter of Guru_10-1-07.mp3",
    "type": "audio",
-   "status": "audio",
-   "transcribeError": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))"
+   "status": "transcribed",
+   "transcribeError": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))",
+   "file": "research/iyf-materials/iyf-decks/RSP_CCM_Art of taking shelter of Guru_10-1-07.mp3.transcript.txt",
+   "chars": 104817,
+   "detail": "whisper large-v3-turbo, 439s"
   },
   "155hZMoVLfsHnxM0U0rbBEUoYYKgpWpUW": {
    "url": "https://drive.google.com/file/d/155hZMoVLfsHnxM0U0rbBEUoYYKgpWpUW/view?usp=drive_web",
    "name": "RSP_diksha process & accepting sp. master_20-6-05.mp3",
    "type": "audio",
-   "status": "audio",
-   "transcribeError": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))"
+   "status": "transcribed",
+   "transcribeError": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))",
+   "file": "research/iyf-materials/iyf-decks/RSP_diksha process _ accepting sp. master_20-6-05.mp3.transcript.txt",
+   "chars": 129968,
+   "detail": "whisper large-v3-turbo, 525s"
   },
   "1Plbs_LvSZ_Gpa2Pa7h-wuHh2-6C5vEJN": {
    "url": "https://drive.google.com/file/d/1Plbs_LvSZ_Gpa2Pa7h-wuHh2-6C5vEJN/view?usp=drive_web",
    "name": "RSP_KGP_Developing friendly disposition with Guru.mp3",
    "type": "audio",
-   "status": "audio",
-   "transcribeError": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))"
+   "status": "transcribed",
+   "transcribeError": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))",
+   "file": "research/iyf-materials/iyf-decks/RSP_KGP_Developing friendly disposition with Guru.mp3.transcript.txt",
+   "chars": 85130,
+   "detail": "whisper large-v3-turbo, 290s"
   },
   "1ivob7gCOXpdaH7GP95OMHEiFvjaVM-qi": {
    "url": "https://drive.google.com/file/d/1ivob7gCOXpdaH7GP95OMHEiFvjaVM-qi/view?usp=drive_web",
    "name": "RSP_Q&A-diksha process & accepting sp_ master(1)_21-6-05 (2).mp3",
    "type": "audio",
-   "status": "audio",
-   "transcribeError": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))"
+   "status": "transcribed",
+   "transcribeError": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))",
+   "file": "research/iyf-materials/iyf-decks/RSP_Q_A-diksha process _ accepting sp_ master_1__21-6-05 _2_.mp3.transcript.txt",
+   "chars": 49334,
+   "detail": "whisper large-v3-turbo, 167s"
   },
   "17FkbSNcoSulmEIdP3dy_lelbY7kfgUBP": {
    "url": "https://drive.google.com/file/d/17FkbSNcoSulmEIdP3dy_lelbY7kfgUBP/view?usp=drive_web",
@@ -8930,7 +8942,7 @@
    "name": "why we commit offense to guru-SB.wma",
    "type": "audio",
    "status": "audio",
-   "transcribeError": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))"
+   "transcribeError": "CalledProcessError(11, ['whisper-cli', '-m', '/Users/maclapctp409/Downloads/files/hpStuff/prompt/preacherLibrary/tools/../.cache/whisper/ggml-large-v3-turbo-q5_0.bin', '-f', '/Users/maclapctp409/Downl"
   },
   "folder:1bIh4L-qUPHSYp8IbQygH-9pXGksLlgA1": {
    "url": "https://drive.google.com/drive/folders/1bIh4L-qUPHSYp8IbQygH-9pXGksLlgA1",
@@ -9006,8 +9018,11 @@
    "url": "https://drive.google.com/file/d/1WrPLBEENgIMN3yFbMv4paPetqoNWgKtB/view?usp=drive_web",
    "name": "BG session 3.mp3",
    "type": "audio",
-   "status": "audio",
-   "transcribeError": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))"
+   "status": "transcribed",
+   "transcribeError": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))",
+   "file": "research/iyf-materials/iyf-decks/BG session 3.mp3.transcript.txt",
+   "chars": 86748,
+   "detail": "whisper large-v3-turbo, 343s"
   },
   "1TNlLAobGsGnpOFcJRRlN6BOkU3UgF2hQ": {
    "url": "https://drive.google.com/file/d/1TNlLAobGsGnpOFcJRRlN6BOkU3UgF2hQ/view?usp=drive_web",
